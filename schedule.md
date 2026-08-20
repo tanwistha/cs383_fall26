@@ -1,6 +1,6 @@
 # Class Schedule
 
-| Meeting Date | Content Outline | Reading | Homework |
-| ----------- | ----------- | ----------| --------- |
-| Header | Title | Hello | test | test |
-| Paragraph | Text | test | test | 
+| Week | Meeting Date | Content Outline | Reading | Homework |
+| ----- | ----------- | ----------- | ---------- | --------- |
+| 1 | Header | Title | test | test |
+| 2 | Paragraph | Text | test | test |
