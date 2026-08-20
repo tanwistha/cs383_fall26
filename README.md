@@ -22,13 +22,13 @@ We will be using [Algorithms Illuminated Omnibus Edition by Tim Roughgarden](htt
 
 ## Reference Materials
 
-You are welcome to refer other books to strengthen your concept. I found [Introduction to Algorithms by Cormen et al.](https://www.amazon.com/dp/026204630X?lv=shuf&channelId=500&plpRedirect=mhFallback) to be a very good reference material.  
+You are welcome to refer other books to strengthen the concepts taught in class. I found [Introduction to Algorithms by Cormen et al.](https://www.amazon.com/dp/026204630X?lv=shuf&channelId=500&plpRedirect=mhFallback) to be a very good reference material.
 
-There's a good Python reference should you choose to look up online (free) here [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds3/)
+There's a good Python reference, should you choose to look up online (free) here [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds3/)
 
 ## Class Readings
 
-Reading materials for each class will be made available in the beginning of the class at [this site]()
+Reading materials for each class will be made available in the beginning of the class at [this site](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md). I have shared a (tentative) class schedule and the outline of the materials we will be covering on this site as well.
 
 
 
