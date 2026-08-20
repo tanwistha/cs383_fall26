@@ -33,10 +33,15 @@ Reading materials for each class will be made available in the beginning of the 
 
 ## Course Structure
 
-- We will have one in-class midterm (no electronics allowed, closed book), 4-5 programming assignments and one final project.
+- We will have **one in-class midterm** (no electronics allowed, closed book), **4-5 programming assignments** and **one final project**.
 - For programming assignments, you are meant to complete on your own. You are welcome to help each other with concepts, but any code, writing, math, etc. should be your own.
 - For final project, you will form a team of 3-4 individuals. Final project code and report will be due the week before final week. You will be required to present / demo your project in the final week of Fall semester.
 - There will not be any final exam. Instead we will have a final prsesentation where you and your team will demonstrate your project in-class.
+
+## Honor code and use of AI
+
+- We will follow school's [honor code](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#I) wherever applicable.
+- You are welcome to use AI to help your understanding of the course content, however, you should **not** use AI to write solutions to your programming assignments/homeworks. For using GenAI on informational purposes, please familiarize yourself with usage policy [outlined here](https://www.lclark.edu/live/profiles/21485-generative-ai-and-use-of-college-data-policy)
 
 
 
