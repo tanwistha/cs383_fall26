@@ -10,6 +10,13 @@ Welcome to **CS 383 - Algorithm Design and Analysis** course.
 - **Course Pre-requisites:**  CS 172, MATH 132 or CS 230
 - **Final Presentation:** December 16, 1:00 PM - 4:00 PM
 
+## Setup
+
+We will use Python as the language to implement class assignments and projects. You can use your preferred choice of IDE but make sure Python 3.9 or above is installed in your system. 
+
+I believe we should be ok using the basic Python, however, if there are packages you feel you will need then it better to create a virtual environment in Python and have those packages installed in the virtual environment. 
+Here is a good [howto](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) document. Also take a look [here](https://docs.python.org/3/tutorial/venv.html)
+
 ## Getting Help
 You are welcome to choose one of the following options to get help:
 - **Instructor's Office hours:** 10:00 AM - 11:00 AM MWF, Olin 230 (please email to schedule a different time on M/W/F around class meeting times, if the office hrs do not work for you). Put **CS383** in subject line to help me filter out your emails.
