@@ -2,15 +2,15 @@
 
 | Week | Meeting Date | Content Outline | Reading | Homework/Project |
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
-| 1 | Aug 31 | Course intro; algorithms vs. data structures | TBD | - |
-| 1 | Sep 2 | Arrays, Linked List, Stacks, Queues (overviews) | TBD | - |
-| 1 | Sep 4 | Recursion foundations | TBD | **PA1a released** |
+| 1 | Aug 31 | Course intro; Setup/Syllabus | Roughgarden | - |
+| 1 | Sep 2 | Algorithms vs. data structures : Arrays, Linked List | - | **PA1a released** |
+| 1 | Sep 4 | Stacks, Queues (overviews) | TBD | - |
 | 2 | Sep 7 | Labor Day - No class | - | - |
-| 2 | Sep 9 | Logarithms & growth rates | TBD | **PA1a due** |
-| 2 | Sep 11 | Asymptotic Notation | TBD | PA1b released |
-| 3 | Sep 14 | Searching (Linear vs. binary search) | TBD | **PA1b released** | 
-| 3 | Sep 16 | Searching (contd.) / Flex  | TBD | - |
-| 3 | Sep 18 | Sorting I (Selection & Insertion; Divide and Conquer) | TBD | PA1b due |
+| 2 | Sep 9 | Recursion foundations | TBD | **PA1a due** |
+| 2 | Sep 11 | Logarithms & growth rates | TBD | **PA1b released** |
+| 3 | Sep 14 | Asymptotic Notation | TBD | - | 
+| 3 | Sep 16 | Searching (Linear vs. binary search)  | TBD | - |
+| 3 | Sep 18 | Sorting I (Selection & Insertion; Divide and Conquer) | TBD | **PA1b due** |
 | 4 | Sep 21 | Sorting II (Mergesort) | TBD | - |
 | 4 | Sep 23 | Sorting III (Quicksort) | TBD | **PA2 released** | 
 | 4 | Sep 25 | Flex | TBD | - |
