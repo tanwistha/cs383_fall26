@@ -5,13 +5,9 @@
 Welcome to **CS 383 - Algorithm Design and Analysis** course.
 
 **Instructor:** [Tanwistha Saha](https://tanwistha.github.io/)
-
 **Teaching Assistant:** [Eden S. Straitiff](mailto:edenstraitiff@lclark.edu)
-
 **Meetings:** 11:30 AM - 12:30 PM MWF, Olin 305
-
-**Course Pre-requisites:**  CS 172. MATH 132 or CS 230.
-
+**Course Pre-requisites:**  CS 172. MATH 132 or CS 230
 **Final Presentation:** December 16, 1:00 PM - 4:00 PM
 
 ## Getting Help
@@ -51,19 +47,21 @@ Reading materials for each class will be made available in the beginning of the 
 
 ## Grading Policy
 
-I will follow the grading policy as outlined [here](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?pli=1&tab=t.0). However, to earn a cumulative letter grade in the end of the semester I will be using a **weighted average** of the work you will be doing throughout the semester towards the following items for this course: 
+I understand a letter grade doesn't necessarily justify the effort someone puts into learning a subject and couple of months is probably not enough to determine how good you have grasped the material. Having said that, we (myself and the TA) will make every effort to help you learn the subject to the best of our abilities. Our school requires a letter grade at the end of the semester hence to help me assign a grade which you believe you have earned it, I suggest you to engage in class, ask questions, and come see us if you need help. 
+
+As far as grading goes, I will follow the grading rubrics as outlined [here](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?pli=1&tab=t.0). However, to earn a cumulative letter grade in the end of the semester I will be using a **weighted average** of your effort and contributions throughout the semester towards the following items for this course:
 
 - Programming Assignments: 35\%
-- Midterm (in-class): 30\%
-- Final project: 35\%
+- Midterm (in-class): 25\%
+- Final project: 40\%
+- Bonus points on class participation (max 5 points)
 
 ## Late Submission Policy
 
-Each assignment has a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period.
+- Each assignment will have a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against the name of the assignment (e.g. "PA1 due" etc.) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period is over.
 
-Some time (hopefully a couple of days) after the due date, we (either myself or the teaching assistant) will give you feedback on the assignment. If you still have time before the grace period, you may hand in a revised version. After the grace period ends, we will **not accept any revisions**. If you want to talk about some unforeseen situation, or an assignment that you came back to much later, come by lab/office hours.
+- Some time (hopefully a couple of days) after the due date, we (either myself or the teaching assistant) will give you feedback on the assignment you have submitted. If you still have time before the grace period, you may hand in a revised version. After the grace period is over (which is **one week after the assignment due date**), we will **not accept any more revisions**. If you want to talk about some unforeseen situation, or an assignment that you came back to much later, please talk to me during my office hours.
 
 ## Previous Class Notes
 
-Dr. Peter Drake offered this course in Fall 2025. Here's a [link](https://github.com/PeterDrake/cs383) to his class. You are welcome to go through reading materials from this site for learning purposes. 
-
+Dr. Peter Drake offered this course in Fall 2025. Here's a [link](https://github.com/PeterDrake/cs383) to his class. You are welcome to go through reading materials from this site for learning purposes.
