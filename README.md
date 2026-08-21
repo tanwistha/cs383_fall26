@@ -15,7 +15,14 @@ Welcome to **CS 383 - Algorithm Design and Analysis** course.
 We will use Python as the language to implement class assignments and projects. You can use your preferred choice of IDE but make sure Python 3.9 or above is installed in your system. 
 
 I believe we should be ok using the basic Python, however, if there are packages you feel you will need then it better to create a virtual environment in Python and have those packages installed in the virtual environment. 
-Here is a good [howto](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) document. Also take a look [here](https://docs.python.org/3/tutorial/venv.html)
+Here is a good [howto](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) document. Also take a look [here](https://docs.python.org/3/tutorial/venv.html).
+
+Some python packages that I have found handy (always, no matter what I am doing) are as follows, which you can have them installed in the virtual environment you have created:
+- pandas
+- numpy
+- pytest
+- jupyter notebook
+- matplotlib
 
 ## Getting Help
 You are welcome to choose one of the following options to get help:
