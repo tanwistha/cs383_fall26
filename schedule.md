@@ -2,9 +2,9 @@
 
 | Week | Meeting Date | Content Outline | Reading | Homework/Project |
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
-| 1 | Aug 31 | Course intro; Setup/Syllabus | Roughgarden | - |
+| 1 | Aug 31 | Course intro: Setup/Syllabus | - | - |
 | 1 | Sep 2 | Algorithms vs. data structures : Arrays, Linked List | - | **PA1a released** |
-| 1 | Sep 4 | Stacks, Queues (overviews) | TBD | - |
+| 1 | Sep 4 | Stacks, Queues | TBD | - |
 | 2 | Sep 7 | Labor Day - No class | - | - |
 | 2 | Sep 9 | Recursion foundations | TBD | **PA1a due** |
 | 2 | Sep 11 | Logarithms & growth rates | TBD | **PA1b released** |
@@ -35,9 +35,9 @@
 | 11 | Nov 9 | Prim's Algorithm; Intro to Greedy algorithms | TBD | - |
 | 11 | Nov 11 | Prim vs Kruskal (greedy choice property) / Flex | TBD | - |
 | 11 | Nov 13 | Flex | TBD | **PA4 due** |
-| 12 | Nov 16 | Greedy in depth: works (interval scheduling) vs fails (coin change) | TBD | Project discussion (15 min) |
+| 12 | Nov 16 | Greedy in depth: when works vs when fails | TBD | Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming | TBD | Project discussion (15 min) |
-| 12 | Nov 20 | Dynamic Programming vs greedy decision framework | TBD | **Project proposal due** |
+| 12 | Nov 20 | Dynamic Programming vs greedy decision framework (coin change demo) | TBD | **Project proposal due** |
 | 13 | Nov 23 | Flex | TBD | Project discussions (15 mins) |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
