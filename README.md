@@ -29,7 +29,7 @@ There's a good Python reference, should you choose to look up online (free) here
 
 ## Class Readings
 
-Reading materials for each class will be made available in the beginning of the class at [this site](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md). I have shared a (tentative) class schedule and the outline of the materials we will be covering on this site as well.
+Reading materials for each class will be made available in the beginning of the class at [this site](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md). We will cover the material together in class via slides and whiteboarding. I have shared a (tentative) class schedule and the outline of the materials we will be covering on this site as well. If you have questions, ask in the class and also see "Getting Help" section above to learn how to find help.
 
 ## Course Structure
 
