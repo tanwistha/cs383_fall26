@@ -39,10 +39,27 @@ Reading materials for each class will be made available in the beginning of the 
 - For final project, you will form a team of 3-4 individuals. Final project code and report will be due the week before final week. You will be required to present / demo your project in the final week of Fall semester.
 - There will not be any final exam. Instead we will have a final prsesentation where you and your team will demonstrate your project in-class.
 
-## Honor code and use of AI
+## Academic Integrity and use of GenAI/LLMs
 
 - We will follow school's [honor code](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#I) wherever applicable.
 - You are welcome to use AI to help your understanding of the course content, however, you should **not** use AI to write solutions to your programming assignments/homeworks. For using GenAI on informational purposes, please familiarize yourself with usage policy [outlined here](https://www.lclark.edu/live/profiles/21485-generative-ai-and-use-of-college-data-policy)
+- You can find detailed policies in the [College's Statement on Academic Integrity](https://docs.lclark.edu/undergraduate/policiesprocedures/academicintegrity/) and in [sections VIII (Outcomes)](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#VIII) and [XVII (College Honor Board Hearing Procedures)](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#XVII) of the Student Code of Conduct.
 
+## Grading Policy
 
+I will follow the grading policy as outlined [here](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?pli=1&tab=t.0). However, to earn a cumulative letter grade in the end of the semester I will be using a **weighted average** of the work you will be doing throughout the semester towards the following items for this course: 
+
+- Programming Assignments: 35\%
+- Midterm (in-class): 30\%
+- Final project: 35\%
+
+## Late Submission Policy
+
+Each assignment has a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period.
+
+Some time (hopefully a couple of days) after the due date, we (either myself or the teaching assistant) will give you feedback on the assignment. If you still have time before the grace period, you may hand in a revised version. After the grace period ends, we will **not accept any revisions**. If you want to talk about some unforeseen situation, or an assignment that you came back to much later, come by lab/office hours.
+
+## Previous Class Notes
+
+Dr. Peter Drake offered this course in Fall 2025. Here's a [link](https://github.com/PeterDrake/cs383) to his class. You are welcome to go through reading materials from this site for learning purposes. 
 
