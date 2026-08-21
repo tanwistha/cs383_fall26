@@ -48,9 +48,9 @@ Reading materials for each class will be made available in the beginning of the 
 
 ## Grading Policy
 
-I understand a letter grade doesn't necessarily justify the effort someone puts into learning a subject and couple of months is probably not enough to determine how good you have grasped the material. Having said that, we (myself and the TA) will make every effort to help you learn the subject to the best of our abilities. Our school requires a letter grade at the end of the semester hence to help me assign a grade which you believe you have earned it, I suggest you to engage in class, ask questions, and come see us if you need help. 
+I understand a letter grade doesn't necessarily justify the effort someone puts into learning a subject, and a few months is probably not enough to determine how good you have grasped the material. Having said that, we (myself and the TA) will make every effort to help you learn the subject to the best of our abilities. Our school requires a letter grade at the end of the semester, hence, to help me assign a grade which you believe you have earned in this course, I recommend you to actively participate in class, ask questions, and come see us if you need help. 
 
-As far as grading goes, I will follow the grading rubrics as outlined [here](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?pli=1&tab=t.0). However, to earn a cumulative letter grade in the end of the semester I will be using a **weighted average** of your effort and contributions throughout the semester towards the following items for this course:
+As far as grading goes, I will follow the rubrics outlined [here](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?pli=1&tab=t.0). However, to assign a cumulative letter grade to you, I will be using a **weighted average** of your effort and contributions measured throughout the semester towards the following items:
 
 - Programming Assignments: 35\%
 - Midterm (in-class): 25\%
