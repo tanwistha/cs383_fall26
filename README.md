@@ -34,6 +34,7 @@ Reading materials for each class will be made available in the beginning of the 
 ## Course Structure
 
 - We will have **one in-class midterm** (no electronics allowed, closed book), **4-5 programming assignments** and **one final project (with demo and presentation)**.
+- There will **Flex** days in the schedule, which we will use to catch up with syllabus or will be reserved for unplanned changes (faculty illness, bad weather etc.)
 - For programming assignments, you are meant to complete on your own. You are welcome to help each other with concepts, but any code, writing, math, etc. should be your own.
 - For final project, you will form a team of 3-4 individuals. Final project code and report will be due the week before final week. You will be required to present / demo your project in the final week of Fall semester.
 - There will not be any final exam. Instead we will have a final prsesentation where you and your team will demonstrate your project in-class.
