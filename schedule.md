@@ -3,8 +3,8 @@
 | Week | Meeting Date | Content Outline | Reading | Homework/Project |
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
 | 1 | Aug 31 | Course intro: Setup/Syllabus | - | - |
-| 1 | Sep 2 | Algorithms vs. data structures : Arrays, Linked List | - | **PA1a released** |
-| 1 | Sep 4 | Stacks, Queues | TBD | - |
+| 1 | Sep 2 | Algorithms vs. data structures : Arrays, Linked List | - | - |
+| 1 | Sep 4 | Stacks, Queues | TBD | **PA1a released** |
 | 2 | Sep 7 | Labor Day - No class | - | - |
 | 2 | Sep 9 | Recursion foundations | TBD | **PA1a due** |
 | 2 | Sep 11 | Logarithms & growth rates | TBD | **PA1b released** |
