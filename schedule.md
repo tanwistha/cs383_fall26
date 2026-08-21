@@ -4,49 +4,48 @@
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
 | 1 | Aug 31 | Course intro; algorithms vs. data structures | TBD | - |
 | 1 | Sep 2 | Arrays, Linked List, Stacks, Queues (overviews) | TBD | - |
-| 1 | Sep 4 | Recursion foundations: thinking recursively, base cases, tracing recursive calls | TBD | **PA1a released** |
+| 1 | Sep 4 | Recursion foundations | TBD | **PA1a released** |
 | 2 | Sep 7 | Labor Day - No class | - | - |
-| 2 | Sep 9 | Logarithms & growth rates: why log(n) shows up (binary search revisited) | TBD | **PA1a due** |
+| 2 | Sep 9 | Logarithms & growth rates | TBD | **PA1a due** |
 | 2 | Sep 11 | Asymptotic Notation | TBD | PA1b released |
 | 3 | Sep 14 | Searching (Linear vs. binary search) | TBD | **PA1b released** | 
-| 3 | Sep 16 | Sorting I (Selection & Insertion) | TBD | - |
-| 3 | Sep 18 | Sorting II (Divide and Conquer; Mergesort (contd.)) | TBD | PA1b due |
-| 4 | Sep 21 | Sorting III (Mergesort complexity analysis) / Flex | TBD | - |
-| 4 | Sep 23 | Sorting IV (Quicksort) | TBD | **PA2 released** | 
+| 3 | Sep 16 | Searching (contd.) / Flex  | TBD | - |
+| 3 | Sep 18 | Sorting I (Selection & Insertion; Divide and Conquer) | TBD | PA1b due |
+| 4 | Sep 21 | Sorting II (Mergesort) | TBD | - |
+| 4 | Sep 23 | Sorting III (Quicksort) | TBD | **PA2 released** | 
 | 4 | Sep 25 | Flex | TBD | - |
 | 5 | Sep 28 | Priority queues; binary heaps; heap operations | TBD | - |
 | 5 | Sep 30 | Heaps (contd.) and Heapsort | TBD | **PA2 due** |
 | 5 | Oct 2 | Binary Search Trees: search, insert, traversal | TBD | - |
-| 6 | Oct 5 | BST (contd.); deletion and ordering | TBD | **PA3 released** |
-| 6 | Oct 7 | Red-Black Trees: why balance matters; rotations; balancing intuition | TBD | - |
+| 6 | Oct 5 | BST (contd.): deletion and ordering | TBD | **PA3 released** |
+| 6 | Oct 7 | Red-Black Trees | TBD | - |
 | 6 | Oct 9 | Fall break - No class | TBD | - |
-| 7 | Oct 12 | Hashing (Hash tables; collisions; chaining/open addressing) | TBD | - |
-| 7 | Oct 14 | Problem solving / Flex | - | **PA3 due** |
+| 7 | Oct 12 | Hashing  | TBD | - |
+| 7 | Oct 14 | Hashing (contd.) / Flex | - | **PA3 due** |
 | 7 | Oct 16 | Midterm review / Flex | - | - |
 | 8 | Oct 19 | MIDTERM (in class) — no electronics; one-page cheat sheet allowed | - | - |
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
 | 8 | Oct 23 | BFS : reachability & connected components | TBD | - |
 | 9 | Oct 26 | DFS | TBD | - |
-| 9 | Oct 28 | DFS applications / Flex | TBD | - |
+| 9 | Oct 28 | BFS, DFS (contd.) / Flex | TBD | - |
 | 9 | Oct 30 | DAG & Topological sort | TBD | **Project announced; PA4 released** |
-| 10 | Nov 2 | Dijkstra's Algorithm | TBD | - |
-| 10 | Nov 4 | Minimum spanning trees; cut property; Kruskal's algorithm | TBD | - |
+| 10 | Nov 2 | Shortest path: Dijkstra's Algorithm | TBD | - |
+| 10 | Nov 4 | Minimum spanning trees: Kruskal's algorithm | TBD | - |
 | 10 | Nov 6 | Flex | TBD | - |
 | 11 | Nov 9 | Prim's Algorithm; Intro to Greedy algorithms | TBD | - |
 | 11 | Nov 11 | Prim vs Kruskal (greedy choice property) / Flex | TBD | - |
 | 11 | Nov 13 | Flex | TBD | **PA4 due** |
 | 12 | Nov 16 | Greedy in depth: works (interval scheduling) vs fails (coin change) | TBD | Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming | TBD | Project discussion (15 min) |
-| 12 | Nov 20 | Dynamic Programming-vs-greedy decision framework | TBD | **Project proposal due** |
+| 12 | Nov 20 | Dynamic Programming vs greedy decision framework | TBD | **Project proposal due** |
 | 13 | Nov 23 | Flex | TBD | Project discussions (15 mins) |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
-| 14 | Nov 30 | Floyd-Warshall algorithm (all-pairs shortest paths as a DP problem) | TBD | Project discussions (15 mins) |
+| 14 | Nov 30 | Floyd-Warshall algorithm (as a DP problem) | TBD | Project discussions (15 mins) |
 | 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | Project discussion / open items |
 | 14 | Dec 4 | Flex / Project testing | - | Open items (student request) | 
 | 15 | Dec 7 | Flex / Revisit a DP problem (Knapsack) | - | Project discussion/opens |
 | 15 | Dec 9 | Project complexity analysis/evaluation | - | Opens | 
 | 15 | Dec 11 | Reading day - No class | - | **Project code and report due** |
 | 16 | Dec 14 | Finals week - No class | - | - |
-
 

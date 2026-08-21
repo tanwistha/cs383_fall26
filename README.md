@@ -8,7 +8,9 @@ Welcome to **CS 383 - Algorithm Design and Analysis** course.
 - **Teaching Assistant:** [Eden S. Straitiff](mailto:edenstraitiff@lclark.edu)
 - **Meetings:** 11:30 AM - 12:30 PM MWF, Olin 305
 - **Course Pre-requisites:**  CS 172, MATH 132 or CS 230
+- **Class Schedule (may change as we progress):** [click here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md)
 - **Final Presentation:** December 16, 1:00 PM - 4:00 PM
+
 
 ## Setup
 
