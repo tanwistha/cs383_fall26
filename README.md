@@ -42,7 +42,8 @@ Reading materials for each class will be made available in the beginning of the 
 ## Academic Integrity and use of GenAI/LLMs
 
 - We will follow school's [honor code](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#I) wherever applicable.
-- You are welcome to use AI to help your understanding of the course content, however, you should **not** use AI to write solutions to your programming assignments/homeworks. For using GenAI on informational purposes, please familiarize yourself with usage policy [outlined here](https://www.lclark.edu/live/profiles/21485-generative-ai-and-use-of-college-data-policy)
+- You are welcome to use AI to help your understanding of the course content, however, you should **not** use AI to write solutions to your programming assignments/homeworks/project. LLMs like ChatGPT, Claude etc. are very good in providing you solution **only if** you know how to use them and how to prompt. And, to know how to use LLMs you must learn the fundamentals. Jumping through the hoops and getting AI tools to do the work for you is **not** going to help you in becoming successful in the the long run.
+- For using GenAI on informational purposes, please familiarize yourself with usage policy [outlined here](https://www.lclark.edu/live/profiles/21485-generative-ai-and-use-of-college-data-policy)
 - You can find detailed policies in the [College's Statement on Academic Integrity](https://docs.lclark.edu/undergraduate/policiesprocedures/academicintegrity/) and in [sections VIII (Outcomes)](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#VIII) and [XVII (College Honor Board Hearing Procedures)](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#XVII) of the Student Code of Conduct.
 
 ## Grading Policy
@@ -63,6 +64,20 @@ To ensure that you are keeping up, you must turn in (on time, with the slack giv
 - Each assignment will have a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against the name of the assignment (e.g. "PA1 due" etc.) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period is over.
 
 - Some time (hopefully a couple of days) after the due date, we (either myself or the teaching assistant) will give you feedback on the assignment you have submitted. If you still have time before the grace period, you may hand in a revised version. After the grace period is over (which is **one week after the assignment due date**), we will **not accept any more revisions**. If you want to talk about some unforeseen situation, or an assignment that you came back to much later, please talk to me during my office hours.
+
+- I understand there are unexpected events that happens in life and you can miss the grace period. Come and talk to me about it to see if we can make exceptions. However, as Dr. Drake pointed out in one of his [policy articles](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md), following reasons **will not** be accepted as excuses, and you will get my response as outlined below:
+
+| Your Excuse for Missing the Grace Period Deadline	| What I'll Say |
+|---------------------------------------------------|---------------|
+| I was sick for a couple of days.	| Sorry, but it's already a week late. |
+| My laptop died.	| Sorry, but it's already a week late. |
+| I had to participate in an athletic event or concert.	| Sorry, but it's already a week late.|
+| I had to drive my roommate to the hospital. | Sorry, but it's already a week late. |
+| My cat died. | I'm very sorry, but it's already a week late. |
+| My dog ate the paper where I wrote the logic for solving the assignment | Sorry,but it's already a week late. You could have re-written the logic in another paper right after the incident happened. |
+| I have special accommodations from Student Support Services. | If the one-week grace period is not sufficient, come talk to me before the due date. |
+| I was attacked by a llama and I've been in the hospital for a week. | Come talk to me. |
+| I was attacked by two llamas and I've been in the hospital for two months. | You should probably withdraw for the semester. | 
 
 
 ## Previous Class Notes
