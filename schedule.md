@@ -16,12 +16,12 @@
 | 4 | Sep 25 | Flex | TBD | - |
 | 5 | Sep 28 | Priority queues; binary heaps; heap operations | TBD | - |
 | 5 | Sep 30 | Heaps (contd.) and Heapsort | TBD | **PA2 due** |
-| 5 | Oct 2 | Binary Search Trees: search, insert, traversal | TBD | - |
-| 6 | Oct 5 | BST (contd.): deletion and ordering | TBD | **PA3 released** |
+| 5 | Oct 2 | Binary Search Trees: search, insert, traversal | TBD | **PA3 released** |
+| 6 | Oct 5 | BST (contd.): deletion and ordering | TBD | - |
 | 6 | Oct 7 | Red-Black Trees | TBD | - |
 | 6 | Oct 9 | Fall break - No class | TBD | - |
-| 7 | Oct 12 | Hashing  | TBD | - |
-| 7 | Oct 14 | Hashing (contd.) / Flex | - | **PA3 due** |
+| 7 | Oct 12 | Hashing  | TBD | **PA3 due** |
+| 7 | Oct 14 | Hashing (contd.) / Flex | - | - |
 | 7 | Oct 16 | Midterm review / Flex | - | - |
 | 8 | Oct 19 | MIDTERM (in class) — no electronics; one-page cheat sheet allowed | - | - |
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
