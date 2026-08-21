@@ -56,11 +56,14 @@ As far as grading goes, I will follow the grading rubrics as outlined [here](htt
 - Final project: 40\%
 - Bonus points on class participation (max 5 points)
 
+To ensure that you are keeping up, you must turn in (on time, with the slack given by the late policy described below) **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development** to earn a D. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
+
 ## Late Submission Policy
 
 - Each assignment will have a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against the name of the assignment (e.g. "PA1 due" etc.) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period is over.
 
 - Some time (hopefully a couple of days) after the due date, we (either myself or the teaching assistant) will give you feedback on the assignment you have submitted. If you still have time before the grace period, you may hand in a revised version. After the grace period is over (which is **one week after the assignment due date**), we will **not accept any more revisions**. If you want to talk about some unforeseen situation, or an assignment that you came back to much later, please talk to me during my office hours.
+
 
 ## Previous Class Notes
 

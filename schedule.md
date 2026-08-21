@@ -18,10 +18,11 @@
 | 5 | Sep 30 | Heap operations | TBD | - |
 | 5 | Oct 2 | Heapsort; priority queue applications | TBD | - |
 | 6 | Oct 5 | Binary Search Tree (BST); search, insert, traversal | TBD | - |
-| 6 | Oct 7 | BST (contd.); deletion | TBD | - |
-| 6 | Oct 9 | Hash table | TBD | PA3 due |
-| 7 | Oct 12 | Hashing applications | TBD | - |
+| 6 | Oct 7 | BST (contd.); deletion | TBD | PA3 due |
+| 6 | Oct 9 | Fall break - No class | TBD | - |
+| 7 | Oct 12 | Hash table; Hashing applications | TBD | - |
 | 7 | Oct 14 | Problem solving / Flex | - | - |
 | 7 | Oct 16 | Midterm review / Flex | - | - |
 | 8 | Oct 19 | Midterm (in-class) | - | - |
-| 8 | Oct 21 | 
+| 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
+
