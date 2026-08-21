@@ -48,4 +48,5 @@
 | 15 | Dec 9 | Project complexity analysis/evaluation | - | Opens | 
 | 15 | Dec 11 | Reading day - No class | - | **Project code and report due** |
 | 16 | Dec 14 | Finals week - No class | - | - |
+| 16 | Dec 16 | Final Presentation 1-4 PM (in class) | - | - |
 
