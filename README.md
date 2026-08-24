@@ -28,7 +28,7 @@ Some python packages that I have found handy (always, no matter what I am doing)
 
 ## Getting Help
 You are welcome to choose one of the following options to get help:
-- **Instructor's Office hours:** 10:00 AM - 11:00 AM *Monday \& Wednesday*, Olin 230 (please email to schedule a different time on M/W/W around class meeting times, if the office hrs do not work for you). Put **CS383** in subject line to help me filter out your emails.
+- **Instructor's Office hours:** 10:00 AM - 11:00 AM *Monday \& Wednesday*, Olin 230 (please email to schedule a different time on M/W/F around class meeting times, if the office hrs do not work for you). Put **CS383** in subject line to help me filter out your emails.
 - **TA Office hours:** TBD 
 - **Discussion Thread:** TBD
 
