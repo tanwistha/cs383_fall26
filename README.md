@@ -32,6 +32,11 @@ You are welcome to choose one of the following options to get help:
 - **TA Office hours:** TBD 
 - **Discussion Thread:** TBD
 
+Other than office hours you also have options to get help from following locations, as outlined on the school's website:
+
+- [Symbolic and Quatitative Resource Center (SQRC)](https://college.lclark.edu/departments/mathematical_sciences/sqrc/)
+- [Interactive Learning Center](https://college.lclark.edu/offices/interactive_learning_center/)
+
 
 ## Text Book
 
