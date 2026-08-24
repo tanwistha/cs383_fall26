@@ -27,8 +27,8 @@
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
 | 8 | Oct 23 | BFS : reachability & connected components | TBD | - |
 | 9 | Oct 26 | DFS | TBD | - |
-| 9 | Oct 28 | BFS, DFS (contd.) / Flex | TBD | - |
-| 9 | Oct 30 | DAG & Topological sort | TBD | **Project announced; PA4 released** |
+| 9 | Oct 28 | BFS, DFS (contd.) / Flex | TBD | **PA4 released** |
+| 9 | Oct 30 | DAG & Topological sort | TBD | **Project announced**|
 | 10 | Nov 2 | Shortest path: Dijkstra's Algorithm | TBD | - |
 | 10 | Nov 4 | Minimum spanning trees: Kruskal's algorithm | TBD | - |
 | 10 | Nov 6 | Flex | TBD | - |

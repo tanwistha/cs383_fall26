@@ -50,6 +50,7 @@ Reading materials for each class will be made available in the beginning of the 
 ## Course Structure
 
 - We will have **one in-class midterm** (no electronics allowed, closed book), **4-5 programming assignments** and **one final project (with demo and presentation)**.
+- Programming assignments will be released on class website and links along with release date will be shared on the [class schedule page](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against class meeting date (e.g. PA1a released etc.)
 - There will **Flex** days in the schedule, which we will use to catch up with syllabus or will be reserved for unplanned changes (faculty illness, bad weather etc.)
 - For programming assignments, you are meant to complete on your own. You are welcome to help each other with concepts, but any code, writing, math, etc. should be your own.
 - For final project, you will form a team of 3-4 individuals. Final project code and report will be due the week before final week. You will be required to present / demo your project in the final week of Fall semester.
@@ -77,7 +78,7 @@ To ensure that you are keeping up, you must turn in (on time, with the slack giv
 
 ## Late Submission Policy
 
-- Each assignment will have a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against the name of the assignment (e.g. "PA1 due" etc.) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period is over.
+- Each assignment will have a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against the name of the assignment (e.g. "PA1a due" etc.) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period is over.
 
 - Some time (hopefully a couple of days) after the due date, we (either myself or the teaching assistant) will give you feedback on the assignment you have submitted. If you still have time before the grace period, you may hand in a revised version. After the grace period is over (which is **one week after the assignment due date**), we will **not accept any more revisions**. If you want to talk about some unforeseen situation, or an assignment that you came back to much later, please talk to me during my office hours.
 
