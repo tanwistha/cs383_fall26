@@ -4,14 +4,14 @@
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
 | 1 | Aug 31 | Course intro: Setup/Syllabus | - | - |
 | 1 | Sep 2 | Setup/Syllabus ; Algorithms vs. data structures | - | - |
-| 1 | Sep 4 | Arrays, LinkedList, Stacks, Queues | TBD | **PA1a released** |
+| 1 | Sep 4 | Arrays, LinkedList, Stacks, Queues | TBD | -  |
 | 2 | Sep 7 | Labor Day - No class | - | - |
-| 2 | Sep 9 | Flex / Recursion foundations | TBD | - |
-| 2 | Sep 11 | Logarithms & growth rates | TBD | **PA1a due** |
-| 3 | Sep 14 | Asymptotic Notation | TBD | **PA1b released** | 
+| 2 | Sep 9 | Flex / Recursion foundations | TBD | **PA1 released** |
+| 2 | Sep 11 | Logarithms & growth rates | TBD | - |
+| 3 | Sep 14 | Asymptotic Notation | TBD | - | 
 | 3 | Sep 16 | Searching (Linear vs. binary search)  | TBD | - |
-| 3 | Sep 18 | Sorting I (Selection & Insertion; Divide and Conquer) | TBD | - |
-| 4 | Sep 21 | Sorting II (Mergesort) | TBD | **PA1b due** |
+| 3 | Sep 18 | Sorting I (Selection & Insertion; Divide and Conquer) | TBD | **PA1 due** |
+| 4 | Sep 21 | Sorting II (Mergesort) | TBD | - |
 | 4 | Sep 23 | Sorting III (Quicksort) | TBD | **PA2 released** | 
 | 4 | Sep 25 | Flex | TBD | - |
 | 5 | Sep 28 | Priority queues; binary heaps; heap operations | TBD | - |
