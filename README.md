@@ -50,16 +50,16 @@ There's a good Python reference, should you choose to look up online (free) here
 
 ## Class Readings
 
-Reading materials for each class will be made available in the beginning of the class at [this site](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md). We will cover the material together in class via slides and whiteboarding. I have shared a (tentative) class schedule and the outline of the materials we will be covering on this site as well. If you have questions, ask in the class and also see "Getting Help" section above to learn how to find help.
+Reading materials for each class will be made available after the class at [this site](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md). We will cover the material together in class via slides and whiteboarding. I have shared a (tentative) class schedule and the outline of the materials we will be covering on this site as well. If you have questions, ask in the class and also refer to "Getting Help" section above.
 
 ## Course Structure
 
-- We will have **one in-class midterm (no electronics allowed, closed book), **4-5 programming assignments** and **one final project (with demo and presentation)**.
+- We will have **one in-class midterm (no electronics allowed, closed book), **4 programming assignments** and **one final project (with demo and presentation)**.
 - Programming assignments will be released on class website and links along with release date will be shared on the [class schedule page](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against class meeting date (e.g. PA1a released etc.)
 - There will **Flex** days in the schedule, which we will use to catch up with syllabus or will be reserved for unplanned changes (faculty illness, bad weather etc.)
 - For programming assignments, you are meant to complete on your own. You are welcome to help each other with concepts, but any code, writing, math, etc. should be your own.
-- For **final project, you will form a team of 3-4 individuals.** Final project code and report will be due the week before final week. You will be required to present / demo your project in the final week of Fall semester.
-- There will not be any final exam. Instead we will have a final prsesentation where you and your team will demonstrate your project in-class.
+- For **final project, we will form teams of 3-4 individuals each.** I will release details on the final project when the time comes. Everyone will have the same project but the implementation strategy will differ by teams. A proposal outlining your project implementation plan will be due first. Project code and report will be due the week before final week. 
+- There will not be any final exam. Instead we will have a final prsesentation where you and your team will demonstrate your project in-class on the final day of our class in the final exams week.  
 
 ## Academic Integrity and use of GenAI/LLMs
 
@@ -70,14 +70,14 @@ Reading materials for each class will be made available in the beginning of the 
 
 ## Grading Policy
 
-I understand a letter grade doesn't necessarily justify the effort someone puts into learning a subject, and a few months is probably not enough to determine how good you have grasped the material. Having said that, we (myself and the TA) will make every effort to help you learn the subject to the best of our abilities. Our school requires a letter grade at the end of the semester, hence, to help me assign a grade which you believe you have earned in this course, I recommend you to actively participate in class, ask questions, and come see us if you need help. 
+I understand a letter grade doesn't necessarily justify the effort someone puts into learning a subject, and a few months is probably not enough to determine how good you have grasped the material. Having said that, we (myself and the TA) will make every effort to help you learn the subject to the best of our abilities. Our school requires a letter grade at the end of the semester, hence, to help me assign a grade which you believe you have earned in this course, I recommend you to actively participate in class, submit the assignments on time, ask questions, and come see us if you need help. I will *not* hold any missed midterm (unless you have discussed with me alternative arrangements prior to its offering) 
 
 As far as grading goes, I will follow the rubrics outlined by our department chair [here](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?pli=1&tab=t.0). However, to assign a cumulative letter grade to you, I will be using a **weighted average** of your effort and contributions measured throughout the semester towards the following items:
 
 - Programming Assignments: 40\%
 - Midterm (in-class): 20\%
 - Final project: 40\%
-- Bonus points on class participation (max 10 points)
+- Class participation: Bonus points (max 10 points)
 
 To ensure that you are keeping up, you must turn in (on time, with the slack given by the late policy described below) **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development** to earn a D. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
 

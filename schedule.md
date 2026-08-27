@@ -2,8 +2,8 @@
 
 | Week | Meeting Date | Content Outline | Reading | Homework/Project |
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
-| 1 | Aug 31 | Course intro: Setup/Syllabus | - | - |
-| 1 | Sep 2 | Setup/Syllabus ; Algorithms vs. data structures | - | - |
+| 1 | Aug 31 | Course intro: Setup/Syllabus | - | **First Class survey released** |
+| 1 | Sep 2 | Setup/Syllabus ; Algorithms vs. data structures | - | **First Class survey due** |
 | 1 | Sep 4 | Arrays, LinkedList, Stacks, Queues | TBD | -  |
 | 2 | Sep 7 | Labor Day - No class | - | - |
 | 2 | Sep 9 | Flex / Recursion foundations | TBD | **PA1 released** |
@@ -23,7 +23,7 @@
 | 7 | Oct 12 | Hashing  | TBD | **PA3 due** |
 | 7 | Oct 14 | Hashing (contd.) / Flex | - | - |
 | 7 | Oct 16 | Midterm review / Flex | - | - |
-| 8 | Oct 19 | MIDTERM (in class) — no electronics; one-page cheat sheet allowed | - | - |
+| 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** | - | - |
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
 | 8 | Oct 23 | BFS : reachability & connected components | TBD | - |
 | 9 | Oct 26 | DFS | TBD | - |
@@ -37,7 +37,7 @@
 | 11 | Nov 13 | Flex | TBD | **PA4 due** |
 | 12 | Nov 16 | Greedy in depth: when works vs when fails | TBD | Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming | TBD | Project discussion (15 min) |
-| 12 | Nov 20 | Dynamic Programming vs greedy decision framework (coin change demo) | TBD | **Project proposal due** |
+| 12 | Nov 20 | Dynamic Programming vs greedy decision framework (coin change demo) | TBD | **Project Implementation proposal due** |
 | 13 | Nov 23 | Flex | TBD | Project discussions (15 mins) |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
