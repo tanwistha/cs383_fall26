@@ -45,8 +45,8 @@
 | 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | Project discussion / open items |
 | 14 | Dec 4 | Flex / Project testing | - | Open items (student request) | 
 | 15 | Dec 7 | Flex / Revisit a DP problem (Knapsack) | - | Project discussion/opens |
-| 15 | Dec 9 | Project complexity analysis/evaluation | - | Opens | 
-| 15 | Dec 11 | Reading day - No class | - | **Project code and report due** |
+| 15 | Dec 9 | Flex / Project complexity analysis/evaluation | - | **Project code and report due** | 
+| 15 | Dec 11 | Reading day - No class | - | - |
 | 16 | Dec 14 | Finals week - No class | - | - |
 | 16 | Dec 16 | Final Presentation 1-4 PM (in class) | - | - |
 
