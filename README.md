@@ -26,7 +26,11 @@ Some python packages that I have found handy (always, no matter what I am doing)
 - jupyter notebook
 - matplotlib
 
+It is always good to follow coding best practices since most of the time (either in class or in professional life) you will be working in teams. Here is a [good outline on Python coding styles](https://peps.python.org/pep-0008/) that you can follow in your assignments/projects.
+**We will allocate some points in programming assignments/projects for following good coding practices.**
+
 ## Getting Help
+
 You are welcome to choose one of the following options to get help:
 - **Instructor's Office hours:** 10:00 AM - 11:00 AM *Monday \& Wednesday*, Olin 230 (please email to schedule a different time on M/W/F around class meeting times, if the office hrs do not work for you). Put **CS383** in subject line to help me filter out your emails.
 - **TA Office hours:** TBD 
