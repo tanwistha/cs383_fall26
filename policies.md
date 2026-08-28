@@ -14,9 +14,9 @@ I understand a letter grade doesn't necessarily justify the effort someone puts 
 As far as grading goes, I will follow the rubrics outlined [here](https://docs.google.com/document/d/1xXvmiHJB66jHNd4ZFUIw1FyP-7K8a1wr882bVuA3naM/edit?pli=1&tab=t.0). However, to assign a cumulative letter grade to you, I will be using a **weighted average** of your effort and contributions measured throughout the semester towards the following items:
 
 - Programming Assignments: 40\%
-- Midterm (in-class): 20\%
+- Midterm (in-class): 15\%
 - Final project: 40\%
-- Class participation: Bonus points (max 10 points)
+- Class participation: 5\%
 
 To ensure that you are keeping up, you must turn in (on time, with the slack given by the late policy described below) **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development to earn a D**. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
 
