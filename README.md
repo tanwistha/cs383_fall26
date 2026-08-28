@@ -58,7 +58,8 @@ Reading materials for each class will be made available after the class at [this
 
 ## Course Structure
 
-- We will have **one in-class midterm (no electronics allowed, closed book), **4 programming assignments** and **one final project (with demo and presentation)**.
+- We will have **one in-class midterm (no electronics allowed, closed book), 4 programming assignments** and **one final project (with demo and presentation)**.
+- There will be bonus points for class participation. 
 - Programming assignments will be released on class website and links along with release date will be shared on the [class schedule page](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against class meeting date (e.g. PA1a released etc.)
 - There will **Flex** days in the schedule, which we will use to catch up with syllabus or will be reserved for unplanned changes (faculty illness, bad weather etc.)
 - For programming assignments, you are meant to complete on your own. You are welcome to help each other with concepts, but any code, writing, math, etc. should be your own.
