@@ -41,9 +41,11 @@ You are welcome to choose one of the following options to get help:
     - 6:00 PM - 7:00 PM Wednesday @ SQRC
     - 3:00 PM - 4:00 PM Friday @ SQRC
     - available other times but requires appointment by email.
-- **Discussion Thread:** TBD
+- **Discussion/QA channel:** 
+    - To email **everyone** enrolled in the class use [26fa-cs-383-01@lclark.edu](mailto:26fa-cs-383-01@lclark.edu)
+    - you can ask a question and TA or one of your class member can answer if they know it. **Note:** I am *not* in that list so if you want to include me in a discussion then please copy me on your email.
 
-Other than office hours you also have options to get help from following locations, as outlined on the school's website:
+Other than our office/lab hours you also have options to get help from following locations, as outlined on the school's website:
 
 - [Symbolic and Quatitative Resource Center (SQRC)](https://college.lclark.edu/departments/mathematical_sciences/sqrc/)
 - [Interactive Learning Center](https://college.lclark.edu/offices/interactive_learning_center/)
