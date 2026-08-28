@@ -2,9 +2,9 @@
 
 | Week | Meeting Date | Content Outline | Reading | Homework/Project |
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
-| 1 | Aug 31 | Course intro: Setup/Syllabus | - | **First Class survey released** |
-| 1 | Sep 2 | Setup/Syllabus ; Algorithms vs. data structures | - | **First Class survey due** |
-| 1 | Sep 4 | Arrays, LinkedList, Stacks, Queues | TBD | -  |
+| 1 | Aug 31 | Course intro & Syllabus | - | **First Class survey released** |
+| 1 | Sep 2 | Course Setup ; Algorithms vs. data structures | - | **First Class survey due** |
+| 1 | Sep 4 | Data structures : Arrays, LinkedList, Stacks, Queues | TBD | -  |
 | 2 | Sep 7 | Labor Day - No class | - | - |
 | 2 | Sep 9 | Flex / Recursion foundations | TBD | **PA1 released** |
 | 2 | Sep 11 | Logarithms & growth rates | TBD | - |
