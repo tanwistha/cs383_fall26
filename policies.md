@@ -1,4 +1,4 @@
-A few summarized bullets here for quick reference as far as the policies we will follow in this course.  
+A few summarized bullets here for quick reference to the policies we will follow in this course.  
 
 ## Academic Integrity and use of GenAI/LLMs
 

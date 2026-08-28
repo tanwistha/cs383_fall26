@@ -16,7 +16,7 @@ Welcome to **CS 383 - Algorithm Design and Analysis** course.
 
 We will use Python as the language to implement class assignments and projects. You can use your preferred choice of IDE but make sure Python 3.9 or above is installed in your system. 
 
-I believe we should be ok using the basic Python, however, if there are packages you feel you will need then it better to create a virtual environment in Python and have those packages installed in the virtual environment. 
+I believe we should be ok using the basic Python, however, if there are packages you feel you will need then it is better to create a virtual environment in Python and have any packages you may need, installed in the virtual environment. 
 Here is a good [howto](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) document. Also take a look [here](https://docs.python.org/3/tutorial/venv.html).
 
 Some python packages that I have found handy (always, no matter what I am doing) are as follows, which you can have them installed in the virtual environment you have created:
@@ -26,7 +26,9 @@ Some python packages that I have found handy (always, no matter what I am doing)
 - jupyter notebook
 - matplotlib
 
-It is always good to follow coding best practices since most of the time (either in class or in professional life) you will be working in teams. Here is a [good outline on Python coding styles](https://peps.python.org/pep-0008/) that you can follow in your assignments/projects.
+It is always good to follow coding best practices since most of the time (either in-class or in professional life) you will be working in teams. And, having someone read through your code and not being able to understand a line of it -- is a sign of being a not-so-good team member. So, we all should follow good coding practices. 
+
+Here is a [good outline on Python coding styles](https://peps.python.org/pep-0008/) that you can follow in your assignments/projects.
 **We will allocate some points in programming assignments/projects for following good coding practices.**
 
 ## Getting Help
@@ -54,7 +56,7 @@ There's a good Python reference, should you choose to look up online (free) here
 
 ## Class Readings
 
-Reading materials for each class will be made available after the class at [this site](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md). We will cover the material together in class via slides and whiteboarding. I have shared a (tentative) class schedule and the outline of the materials we will be covering on this site as well. If you have questions, ask in the class and also refer to "Getting Help" section above.
+Slides covered in each class will be made available after the class at [this site](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md). We will cover the material together in class via slides and (sometimes) whiteboarding. I have shared a (tentative) class schedule and the outline of the topics we will be covering on this site as well. If you have questions, ask in the class and also refer to "Getting Help" section above. There will be occasionally readings assigned from course text book. 
 
 ## Course Structure
 
@@ -66,13 +68,17 @@ Reading materials for each class will be made available after the class at [this
 - For **final project, we will form teams of 3-4 individuals each.** I will release details on the final project when the time comes. Everyone will have the same project but the implementation strategy will differ by teams. A proposal outlining your project implementation plan will be due first. Project code and report will be due the week before final week. 
 - There will not be any final exam. Instead we will have a final prsesentation where you and your team will demonstrate your project in-class on the final day of our class in the final exams week.  
 
+## Policies
+
+Please refer [here](https://github.com/tanwistha/cs383_fall26/blob/main/policies.md)
+
 
 ## Learning Objectives
 
 Upon completing this course you will be able to:
 - formally analyze the time and space complexity of various algorithms and data structures.
 - select and design appropriate algorithms for solving computational problems.
-- use, implement, explain, and compare various data structures and algorithms. Data structures include stacks, queues, lists, sets, trees (including several variations of binary trees), graphs, and hash tables. Implementations include array-based and linked versions. Algorithms include sorting, searching, graph, and string algorithms.
+- use, implement, explain, and compare various data structures and algorithms. Data structures include stacks, queues, lists, sets, trees (including some variations of binary trees), graphs, and hash tables. Implementations include array-based and linked list versions. Algorithms include sorting, searching, graph, and dynamic programming algorithms.
 
 
 ## Previous Class Notes
