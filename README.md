@@ -6,7 +6,7 @@ Welcome to **CS 383 - Algorithm Design and Analysis** course.
 
 - **Instructor:** [Tanwistha Saha](https://tanwistha.github.io/) [(Email)](mailto:tsaha@lclark.edu)
 - **Teaching Assistant:** [Eden S. Straitiff](mailto:edenstraitiff@lclark.edu)
-- **Meetings:** 11:30 AM - 12:30 PM MWF, Olin 305
+- **Meetings:** 11:30 AM - 12:30 PM MWF @ Olin 305
 - **Course Pre-requisites:**  CS 172, MATH 132 or CS 230
 - **Class Schedule (may change as we progress):** [click here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md)
 - **Final Presentation:** December 16, 1:00 PM - 4:00 PM
@@ -34,7 +34,7 @@ Here is a [good outline on Python coding styles](https://peps.python.org/pep-000
 ## Getting Help
 
 You are welcome to choose one of the following options to get help:
-- **Instructor's Office hours:** 10:00 AM - 11:00 AM *Monday \& Wednesday*, Olin 230 
+- **Instructor's Office hours:** 10:00 AM - 11:00 AM *Monday \& Wednesday* @ Olin 230 
     - (please email to schedule a different time on M/W/F around class meeting times, if the office hrs do not work for you). Put **CS383** in subject line to help me filter out your emails.
 - **TA Office hours:** 
     - 3:00 PM - 5:00 PM Monday @ SQRC
