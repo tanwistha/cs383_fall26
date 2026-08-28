@@ -34,8 +34,13 @@ Here is a [good outline on Python coding styles](https://peps.python.org/pep-000
 ## Getting Help
 
 You are welcome to choose one of the following options to get help:
-- **Instructor's Office hours:** 10:00 AM - 11:00 AM *Monday \& Wednesday*, Olin 230 (please email to schedule a different time on M/W/F around class meeting times, if the office hrs do not work for you). Put **CS383** in subject line to help me filter out your emails.
-- **TA Office hours:** TBD 
+- **Instructor's Office hours:** 10:00 AM - 11:00 AM *Monday \& Wednesday*, Olin 230 
+    - (please email to schedule a different time on M/W/F around class meeting times, if the office hrs do not work for you). Put **CS383** in subject line to help me filter out your emails.
+- **TA Office hours:** 
+    - 3:00 PM - 5:00 PM Monday @ SQRC
+    - 6:00 PM - 7:00 PM Wednesday @ SQRC
+    - 3:00 PM - 4:00 PM Friday @ SQRC
+    - available other times but requires appointment by email.
 - **Discussion Thread:** TBD
 
 Other than office hours you also have options to get help from following locations, as outlined on the school's website:
