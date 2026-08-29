@@ -36,12 +36,12 @@
 | 11 | Nov 11 | Prim vs Kruskal (greedy choice property) / Flex | TBD | - |
 | 11 | Nov 13 | Flex | TBD | **PA4 due** |
 | 12 | Nov 16 | Greedy in depth: when works vs when fails | TBD | Project discussion (15 min) |
-| 12 | Nov 18 | Dynamic Programming | TBD | Project discussion (15 min) |
+| 12 | Nov 18 | Dynamic Programming | TBD | - |
 | 12 | Nov 20 | Dynamic Programming vs greedy decision framework (coin change demo) | TBD | **Project Implementation proposal due** |
-| 13 | Nov 23 | Flex | TBD | Project discussions (15 mins) |
+| 13 | Nov 23 | Flex | TBD | - |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
-| 14 | Nov 30 | Floyd-Warshall algorithm (as a DP problem) | TBD | Project discussions (15 mins) |
+| 14 | Nov 30 | Floyd-Warshall algorithm (as a DP problem) | TBD | - |
 | 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | Project discussion / open items |
 | 14 | Dec 4 | Flex / Project testing | - | Open items (student request) | 
 | 15 | Dec 7 | Flex / Revisit a DP problem (Knapsack) | - | Project discussion/opens |
