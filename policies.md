@@ -35,7 +35,7 @@ To ensure that you are keeping up, you must turn in (on time, with the slack giv
 | I had to participate in an athletic event or concert.	| Sorry, but it's already a week late.|
 | I had to drive my roommate to the hospital. | Sorry, but it's already a week late. |
 | My cat died. | I'm very sorry, but it's already a week late. |
-| My dog ate the paper where I wrote the logic for solving the assignment | Sorry,but it's already a week late. You could have re-written the logic in another paper right after the incident happened. |
+| My dog ate the paper where I wrote the logic for solving the problem given in assignment. | Sorry,but it's already a week late. You could have re-written the logic in another paper right after the incident happened. |
 | I have special accommodations from Student Support Services. | If the one-week grace period is not sufficient, come talk to me before the due date. |
 | I was attacked by a llama and I've been in the hospital for a week. | Come talk to me. |
 | I was attacked by two llamas and I've been in the hospital for two months. | You should probably withdraw for the semester. | 
