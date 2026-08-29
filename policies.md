@@ -6,6 +6,7 @@ A few summarized bullets here for quick reference to the policies we will follow
 - You are welcome to use AI to help your understanding of the course content, however, you should **not** use AI to write solutions to your programming assignments/project. LLMs like ChatGPT, Claude etc. are very good in providing you solution **only if** you know how to use them and how to write good prompts. And, to know how to use LLMs *effectively* you must learn the fundamental building blocks of computer science. Taking the easy way out and getting AI tools to do the work for you is **not** going to help you in becoming successful in the the long run.
 - For using GenAI on informational purposes, please familiarize yourself with usage policy [outlined here](https://www.lclark.edu/live/profiles/21485-generative-ai-and-use-of-college-data-policy)
 - You can find detailed policies in the [College's Statement on Academic Integrity](https://docs.lclark.edu/undergraduate/policiesprocedures/academicintegrity/) and in [sections VIII (Outcomes)](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#VIII) and [XVII (College Honor Board Hearing Procedures)](https://college.lclark.edu/student_life/community-accountability/student-code-of-conduct/#XVII) of the Student Code of Conduct.
+- Please check the attendance requirement for the first two weeks of classes (i.e. during add/drop period) [here](https://college.lclark.edu/offices/registrar/Faculty/attendance-how-to-request-that-a-non-attending-student-be-dropped/) and make sure you do not miss the first few lectures if you intend to continue with this course.
 
 ## Grading Policy
 
@@ -18,7 +19,7 @@ To assign a cumulative letter grade to you, I will be using a **weighted average
 - Final project: 40\%
 - Class participation: 5\%
 
-To ensure that you are keeping up, you must turn in (on time, with the slack given by the late policy described below) **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development to earn a D**. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
+To ensure that you are keeping up, you should attend lectures, participate in class, turn in classwork (on time, with the slack given by the late policy described below) i.e., **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development to earn a D**. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
 
 ## Late Submission Policy
 
