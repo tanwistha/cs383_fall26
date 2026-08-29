@@ -27,7 +27,7 @@ To ensure that you are keeping up, you should attend lectures, participate in cl
 
 - Some time (hopefully a couple of days) after the due date, we (either myself or the teaching assistant) will give you feedback on the assignment you have submitted. If you still have time before the grace period ends, you may hand in a revised version. After the grace period is over (which is **one week after the assignment due date**), we will **not accept any more revisions**. If you want to talk about some unforeseen situation, or an assignment that you came back to much later, please talk to me during my office hours.
 
-- I understand there are unexpected events that happens in life and you can miss the grace period. Come and talk to me about it to see if we can make exceptions. However, as our department chair Dr. Drake pointed out in one of his [policy articles](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md), following reasons **will not** be accepted as excuses, and you will get my response as outlined below:
+- I understand there are unexpected events that happens in life and you can miss the grace period. Come and talk to me about it to see if we can make exceptions. However, as our department chair Dr. Drake has pointed out in one of his course policy articles, following reasons **will not** be accepted as excuses. You will get my response as outlined below:
 
 | Your Excuse for Missing the Grace Period Deadline	| What I'll Say |
 |---------------------------------------------------|---------------|
