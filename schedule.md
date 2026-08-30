@@ -22,7 +22,7 @@
 | 6 | Oct 9 | Fall break - No class | TBD | - |
 | 7 | Oct 12 | Hashing  | TBD | **PA3 due** |
 | 7 | Oct 14 | Hashing (contd.) / Flex | - | - |
-| 7 | Oct 16 | Midterm review / Flex | - | - |
+| 7 | Oct 16 | Flex | - | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** | - | - |
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
 | 8 | Oct 23 | BFS : reachability & connected components | TBD | - |
@@ -42,7 +42,7 @@
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
 | 14 | Nov 30 | Floyd-Warshall algorithm (as a DP problem) | TBD | - |
-| 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | Project discussion / open items |
+| 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | - |
 | 14 | Dec 4 | Flex / Project testing | - | Open items (student request) | 
 | 15 | Dec 7 | Flex / Revisit a DP problem (Knapsack) | - | Project discussion/opens |
 | 15 | Dec 9 | Flex / Project complexity analysis/evaluation | - | **Project code and report due on Dec 10 by 11:59 PM** | 
