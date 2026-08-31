@@ -19,12 +19,14 @@ We will use Python as the language to implement class assignments and projects. 
 I believe we should be ok using the basic Python, however, if there are packages you feel you will need then it is better to create a virtual environment in Python and have any packages you may need, installed in the virtual environment. 
 Here is a good [howto](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) document. Also take a look [here](https://docs.python.org/3/tutorial/venv.html).
 
-Some python packages that I have found handy (always, no matter what I am doing) are as follows, which you can have them installed in the virtual environment you have created:
+Some python packages that I have found handy (always, no matter what I am doing) are as follows:
 - pandas
 - numpy
 - pytest
 - jupyter notebook
 - matplotlib
+
+If you want you can have those (and other packages based on your need) installed inside your virtual environment. 
 
 It is always good to follow coding best practices since most of the time (either in-class or in professional life) you will be working in teams. And, having someone read through your code and not being able to understand a line of it -- is a sign of being a not-so-good team member. So, we all should follow good coding practices. 
 
