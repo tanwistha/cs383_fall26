@@ -2,7 +2,8 @@
 
 | Week | Meeting Date | Content Outline | Reading | Homework/Project |
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
-| 1 | Aug 31 | Course intro & Syllabus | - | **Assignment 0 (First Class survey) released** |
+| 1 | Aug 31 | Course intro & Syllabus | Roghgarden pp 2-6 (till section 1.3.1) [slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Course_Introduction.pptx)
+| **Assignment 0 (First Class survey) released** |
 | 1 | Sep 2 | Course Setup/Structure | - | - |
 | 1 | Sep 4 | Data structures : Arrays, LinkedList, Stacks, Queues | TBD | **Assignment 0 (First Class survey) due**  |
 | 2 | Sep 7 | Labor Day - No class | - | - |
