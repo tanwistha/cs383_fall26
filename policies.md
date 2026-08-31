@@ -19,7 +19,7 @@ To assign a cumulative letter grade to you, I will be using a **weighted average
 - Final project: 40\%
 - Class participation: 5\%
 
-To ensure that you are keeping up, you should attend lectures, participate in class, turn in classwork (on time, with the slack given by the late policy described below) i.e., **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development to earn a D**. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
+To ensure that you are keeping up, you should attend lectures, participate in class, respond to emails (if those are addressed to you), turn in classwork (on time, with the slack given by the late policy described below) i.e., **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development to earn a D**. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
 
 ## Late Submission Policy
 
