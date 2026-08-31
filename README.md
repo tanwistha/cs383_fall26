@@ -76,6 +76,7 @@ Slides covered in each class will be made available after the class at [this sit
 - For programming assignments, you are meant to complete on your own. You are welcome to help each other with concepts, but any code, writing, math, etc. should be your own.
 - For **final project, we will form teams of 3-4 individuals each.** I will release details on the final project when the time comes. Everyone will have the same project but the implementation strategy will differ by teams. A proposal outlining your project implementation plan will be due first. Project code and report will be due the week before final week. 
 - There will not be any final exam. Instead we will have a final prsesentation where you and your team will demonstrate your project in-class on the final day of our class in the final exams week.  
+- Assignments and Project submission will be managed via Google Classroom. I have send invitation to Google Classroom to all of you who are enrolled in class. Talk to me if you have *not* received an email or if you are having trouble accessing Google classroom. 
 
 ## Policies
 
