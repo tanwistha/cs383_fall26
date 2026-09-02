@@ -23,6 +23,8 @@ To ensure that you are keeping up, you should attend lectures, participate in cl
 
 We will **not** be doing relative grading. Based on your work and the weightage of the category it belongs to, you will get letter grades in the end of the semester. However, individual submissions (e.g. PA1, midterm etc.) will have total points (e.g. 100, 50 etc.) along with the feedback returned to you via Google classroom. 
 
+While assigning letter grades, we will follow the school's outline listed [here](https://docs.lclark.edu/undergraduate/policiesprocedures/grading/)
+
 ## Late Submission Policy
 
 - Each assignment will have a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against the name of the assignment (e.g. "PA1 due" etc.) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period is over.
