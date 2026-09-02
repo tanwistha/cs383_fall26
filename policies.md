@@ -21,6 +21,8 @@ To assign a cumulative letter grade to you, I will be using a **weighted average
 
 To ensure that you are keeping up, you should attend lectures, participate in class, respond to emails (if those are addressed to you), turn in classwork (on time, with the slack given by the late policy described below) i.e., **at least 2 course assignments, answer a quarter of the questions correctly in midterm and make somewhat reasonable effort towards team project development to earn a D**. Students who cannot meet this very low threshold are almost certainly struggling with external issues such as physical or mental health; if you are in such a situtation, it is vital for you to get help before the problem becomes catastrophic.
 
+We will **not** be doing relative grading. Based on your work and the weightage of the category it belongs to, you will get letter grades in the end of the semester. However, individual submissions (e.g. PA1, midterm etc.) will have total points (e.g. 100, 50 etc.) along with the feedback returned to you via Google classroom. 
+
 ## Late Submission Policy
 
 - Each assignment will have a due date (i.e. when you should turn it in) which will be posted in the [schedule here](https://github.com/tanwistha/cs383_fall26/blob/main/schedule.md) against the name of the assignment (e.g. "PA1 due" etc.) and a **one-week grace period**. Outside of extreme circumstances, you can't turn things in after the grace period is over.
