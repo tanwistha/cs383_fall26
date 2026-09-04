@@ -2,9 +2,9 @@
 
 | Week | Meeting Date | Content Outline | Reading | Homework/Project |
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
-| 1 | Aug 31 | Course intro & Syllabus | Roughgarden pp. 2-6 (till Chapter 1 section 1.3.1) [slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Course_Introduction.pptx)| **Assignment 0 (First Class survey) released** |
+| 1 | Aug 31 | Course intro & Syllabus | Roughgarden pp. 2-6 (till Chapter 1 section 1.3.1) [lecture slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Course_Introduction.pptx)| **Assignment 0 (First Class survey) released** |
 | 1 | Sep 2 | Course Setup/Structure | See [class homepage for setting up Python environment and style guides](https://github.com/tanwistha/cs383_fall26/blob/main/README.md) and [assignment submission/grading policies](https://github.com/tanwistha/cs383_fall26/blob/main/policies.md)| - |
-| 1 | Sep 4 | Data structures : Arrays and LinkedLists | [slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Arrays_LinkedLists.pptx) | **Assignment 0 (First Class survey) due**  |
+| 1 | Sep 4 | Data structures : Arrays and LinkedLists | [OOP in Python](https://runestone.academy/ns/books/published/pythonds3/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html), [lecture slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Arrays_LinkedLists.pptx) | **Assignment 0 (First Class survey) due**  |
 | 2 | Sep 7 | Labor Day - No class |  | - |
 | 2 | Sep 9 | Stacks, Queues & Recursion foundations | TBD | **PA1 released** |
 | 2 | Sep 11 | Logarithms & growth rates | TBD | - |
