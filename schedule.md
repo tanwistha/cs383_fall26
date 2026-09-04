@@ -4,7 +4,7 @@
 | ----- | ----------- | ---------------------------  | ---------- | --------- |
 | 1 | Aug 31 | Course intro & Syllabus | Roughgarden pp. 2-6 (till Chapter 1 section 1.3.1) [slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Course_Introduction.pptx)| **Assignment 0 (First Class survey) released** |
 | 1 | Sep 2 | Course Setup/Structure | See [class homepage for setting up Python environment and style guides](https://github.com/tanwistha/cs383_fall26/blob/main/README.md) and [assignment submission/grading policies](https://github.com/tanwistha/cs383_fall26/blob/main/policies.md)| - |
-| 1 | Sep 4 | Data structures : Arrays, LinkedList, Stacks, Queues | TBD | **Assignment 0 (First Class survey) due**  |
+| 1 | Sep 4 | Data structures : Arrays and LinkedLists |  | **Assignment 0 (First Class survey) due**  |
 | 2 | Sep 7 | Labor Day - No class |  | - |
 | 2 | Sep 9 | Flex / Recursion foundations | TBD | **PA1 released** |
 | 2 | Sep 11 | Logarithms & growth rates | TBD | - |
