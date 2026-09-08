@@ -1,9 +1,13 @@
 """
 PA1b - Recursion, Logarithms & Complexity
-S 383 - Algorithm Analysis and Design 
+CS 383 - Algorithm Analysis and Design 
 
+Part 1 - Implement the recursive functions sum_array(arr) and count_halvings(n). 
+        Rules are given inside the function as comments.  
+
+Part 2 - Written answer 
 =====================================================================
-WRITTEN ANSWER — Problem 2, Part B (required)
+WRITTEN ANSWER — Part 2 (required)
 =====================================================================
 Q: What is the Big-O running time of count_halvings(n) in terms of n?
    Justify your answer by relating the recursion depth to the halving

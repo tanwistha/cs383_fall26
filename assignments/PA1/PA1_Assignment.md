@@ -16,7 +16,7 @@ This part exists purely to confirm:
 - Python is installed and runs correctly on your machine.
 - You can edit, run, and submit a `.py` file through whatever process we're using for this course.
 
-If this part doesn't run, **ask for help before the due date** — this is exactly the kind of thing office hours are for in week 1.
+If this part doesn't run, **ask for help before the due date** — this is exactly the kind of thing TA lab hours are for.
 
 ---
 
