@@ -47,7 +47,7 @@ Implement a `Queue` class backed by a Python `list`. A queue is First-In-First-O
 | `size()` | Return the number of items currently in the queue. |
 
 ---
-# PA1b - Recursion fundamentals 
+# PA1b - Recursion fundamentals and Big-O
 
 ## Part 1 — implement sum_array and count_halvings functions
 
