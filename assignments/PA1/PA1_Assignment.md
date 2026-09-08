@@ -1,4 +1,4 @@
-# PA1a — Environment Check + Stack & Queue Basics
+# PA1a — Environment Check + Stack & Queue Basics - 10 points
 
 **Released:** Sep 9 (day of the Stacks & Queues lecture)
 **Due:** Sep 18
@@ -47,7 +47,8 @@ Implement a `Queue` class backed by a Python `list`. A queue is First-In-First-O
 | `size()` | Return the number of items currently in the queue. |
 
 ---
-# PA1b - Recursion fundamentals and Big-O
+
+# PA1b - Recursion fundamentals and Big-O - 10 points
 
 ## Part 1 — implement sum_array and count_halvings functions
 
