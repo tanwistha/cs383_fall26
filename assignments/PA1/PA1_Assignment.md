@@ -2,7 +2,7 @@
 
 **Released:** Sep 9 (day of the Stacks & Queues lecture)
 **Due:** Sep 18
-**Files to submit:** `pa1a_template.py` and `pa1b_template.py` (renamed to your own filename is fine, but keep the class/function names below unchanged), plus your short written answer at the bottom of the file.
+**Files to submit on Google classroom:** `pa1a_template.py` and `pa1b_template.py` (renamed to your own filename is fine, but keep the class/function names unchanged), plus your short written answer at the bottom of the 2nd file.
 
 This is a short, low-stakes first assignment. Its two goals are: (1) make sure your Python environment and submission process both work, and (2) get comfortable with stack and queue behavior using tools you already know (Python's built-in `list`) — no pointers, no custom node classes, nothing new to build from scratch yet. That comes later in the course.
 
@@ -14,7 +14,7 @@ At the top of `pa1a_template.py`, replace `YOUR_NAME_HERE` with your name, then 
 
 This part exists purely to confirm:
 - Python is installed and runs correctly on your machine.
-- You can edit, run, and submit a `.py` file through whatever process we're using for this course.
+- You can edit, run, and submit a `.py` file through Google classroom.
 
 If this part doesn't run, **ask for help before the due date** — this is exactly the kind of thing TA lab hours are for.
 
