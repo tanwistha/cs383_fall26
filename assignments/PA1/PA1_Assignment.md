@@ -52,7 +52,7 @@ Implement a `Queue` class backed by a Python `list`. A queue is First-In-First-O
 
 ## Part 1 — implement sum_array and count_halvings functions
 
-Check file [`pa1b_template.py`](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA1/pa1a_template.py) and implement the functions per the specifications. 
+Check file [`pa1b_template.py`](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA1/pa1b_template.py) and implement the functions per the specifications. 
 
 ## Part 2 - Big-O runtime for a recursive function
 
