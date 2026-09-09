@@ -10,7 +10,7 @@ This is a short, low-stakes first assignment. Its two goals are: (1) make sure y
 
 ## Part 0 — Environment Check (not graded on content, only on completion)
 
-At the top of `pa1a_template.py`, replace `YOUR_NAME_HERE` with your name, then run the file. It should print a short greeting with your name and the Python version you're running.
+At the top of [`pa1a_template.py`](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA1/pa1a_template.py), replace `YOUR_NAME_HERE` with your name, then run the file. It should print a short greeting with your name and the Python version you're running.
 
 This part exists purely to confirm:
 - Python is installed and runs correctly on your machine.
