@@ -8,8 +8,8 @@
 | 2 | Sep 7 | Labor Day - No class |  | - |
 | 2 | Sep 9 | Stacks, Queues & Recursion foundations | [slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Recursion_Foundations.pptx) | **PA1 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA1/PA1_Assignment.md)|
 | 2 | Sep 11 | Logarithms & growth rates | TBD | - |
-| 3 | Sep 14 | Asymptotic Notation | TBD | - | 
-| 3 | Sep 16 | Searching (Linear vs. binary search)  | TBD | - |
+| 3 | Sep 14 | Asymptotic Notation; Searching (Linear vs. binary search) | TBD | - | 
+| 3 | Sep 16 | Flex | TBD | - |
 | 3 | Sep 18 | Sorting I (Selection & Insertion; Divide and Conquer) | TBD | **PA1 due** |
 | 4 | Sep 21 | Sorting II (Mergesort) | TBD | - |
 | 4 | Sep 23 | Sorting III (Quicksort) | TBD | **PA2 released** | 
