@@ -7,7 +7,7 @@
 | 1 | Sep 4 | Data structures : Arrays and LinkedLists | [OOP in Python](https://runestone.academy/ns/books/published/pythonds3/Introduction/ObjectOrientedProgramminginPythonDefiningClasses.html), [lecture 3 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Arrays_LinkedLists.pptx) | **Assignment 0 (First Class survey) due**  |
 | 2 | Sep 7 | Labor Day - No class |  | - |
 | 2 | Sep 9 | Stacks, Queues & Recursion foundations | [lecture 4 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Recursion_Foundations.pptx) | **PA1 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA1/PA1_Assignment.md)|
-| 2 | Sep 11 | Logarithms & growth rates | Roughgarden Chapter 2 pp. 33-38, [slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Logarithms_Growth_Rates.pptx) | - |
+| 2 | Sep 11 | Logarithms & growth rates | Roughgarden Chapter 2 pp. 33-38, [lecture 5 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Logarithms_Growth_Rates.pptx) | - |
 | 3 | Sep 14 | Asymptotic Notation; Searching (Linear vs. binary search) | TBD | - | 
 | 3 | Sep 16 | Flex / Divide and Conquer | TBD | - |
 | 3 | Sep 18 | Sorting I | TBD | **PA1 due** |
