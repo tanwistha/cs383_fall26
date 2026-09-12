@@ -41,7 +41,7 @@ You are welcome to choose one of the following options to get help:
 - **TA Office hours:** 
     - 3:00 PM - 5:00 PM Monday @ SQRC
     - 6:00 PM - 7:00 PM Wednesday @ SQRC
-    - 3:00 PM - 4:00 PM Friday @ SQRC
+    - 3:00 PM - 4:00 PM Friday @ Watzek Library 
     - available other times but requires appointment by email.
 - **Discussion/QA channel:** 
     - To email **everyone** enrolled in the class use [this email distribution list](mailto:26fa-cs-383-01@lclark.edu)
