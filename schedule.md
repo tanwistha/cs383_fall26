@@ -13,7 +13,7 @@
 | 3 | Sep 18 | Elementary Sort Algorithms: Bubble, Insertion, Selection | Roughgarden Chapter 4, section 4.2 & 4.3. pp. 73-79 [lecture 8 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Algorithms.pptx) | **PA1 due, [Bonus Assignment Released](https://github.com/tanwistha/cs383_fall26/blob/main/inclass/doubling_test.py)** |
 | 4 | Sep 21 | Sorting II: MergeSort | Roughgarden, Chapter 1, Section 1.4 & 1.5; [lecture 9 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Algorithms_II.pptx) | **PA2 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA2/sorting_template.py) |
 | 4 | Sep 23 | Sorting III: QuickSort | Roughgarden Chapter 5, Sections 5.1-5.4, pp. 90-104; [lecture 10 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Algorithms_III.pptx) | - | 
-| 4 | Sep 25 | Misc topics: Selection, or some sorting variety or perhaps in-class work? |  | - |
+| 4 | Sep 25 | Non-Comparison Sort (Bucket); In-class exercise | Roughgarden Chapter 5, pp. 113 [lecture 11 slides] | - |
 | 5 | Sep 28 | Priority queues; binary heaps; heap operations | TBD | - |
 | 5 | Sep 30 | Heaps (contd.) and Heapsort | TBD | **PA2 due** |
 | 5 | Oct 2 | Binary Search Trees: search, insert, traversal | TBD | **PA3 released** |
