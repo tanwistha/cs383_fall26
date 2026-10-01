@@ -29,7 +29,7 @@ Required functions
     1. merge_sort(arr)                    -- Part 1
     2. quicksort_first_pivot(arr)         -- Part 2a
     3. quicksort_random_pivot(arr)        -- Part 2b
-    4. describe_complexity()              -- Part 4 (written analysis,
+    4. describe_complexity()              -- Part 3 (written analysis,
                                               returned as a dict)
 
 A benchmark script (benchmark.py) is provided separately for Part 3
@@ -136,7 +136,7 @@ def quicksort_random_pivot(arr):
 
 
 # ---------------------------------------------------------------------------
-# Part 4: Explain the Big-O
+# Part 3: Explain the Big-O
 # ---------------------------------------------------------------------------
 
 def describe_complexity():
