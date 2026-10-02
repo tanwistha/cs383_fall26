@@ -16,7 +16,7 @@
 | 4 | Sep 25 | Non-Comparison Sort (Bucket); In-class exercise | Roughgarden Chapter 5, pp. 113; [lecture 11 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sorting_Lecture_IV_Linear_Time_Sorts.pptx) | **check email for in-class assignment** |
 | 5 | Sep 28 | Priority queues & binary heaps | [lecture 12 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Priority_Queues_Heaps.pptx) | - |
 | 5 | Sep 30 | Heap operations | upto slide 11 i.e. build-min-heap complexity proof [lecture 13 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Heap_Operations_and_Heapsort.pptx) | **PA2 due, Bonus Assignment due** |
-| 5 | Oct 2 | Heap operations  & Heapsort (contd.); BST Intro | same slides from Heas lecture on Wednesday Sept 30 | [**PA3 released**](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA3/assignment_description.md) |
+| 5 | Oct 2 | Heap operations  & Heapsort (contd.); BST Intro | same slides from Heas lecture on Wednesday Sept 30 | **PA3 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA3/assignment_description.md) |
 | 6 | Oct 5 | Binary Search Trees: search, insert, traversal, deletion and ordering | TBD | - |
 | 6 | Oct 7 | Red-Black Trees | TBD | - |
 | 6 | Oct 9 | Fall break - No class |  | - |
