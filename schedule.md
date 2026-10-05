@@ -17,11 +17,11 @@
 | 5 | Sep 28 | Priority queues & binary heaps | [lecture 12 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Priority_Queues_Heaps.pptx) | - |
 | 5 | Sep 30 | Heap operations | upto slide 11 i.e. build-min-heap complexity proof [lecture 13 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Heap_Operations_and_Heapsort.pptx) | **PA2 due, Bonus Assignment due** |
 | 5 | Oct 2 | Heap operations  & Heapsort (contd.); BST Intro | same slides from Heap lecture on Wednesday Sept 30 | **PA3 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA3/assignment_description.md) |
-| 6 | Oct 5 | Binary Search Trees: search, insert, traversal, deletion and ordering | TBD | - |
-| 6 | Oct 7 | Red-Black Trees | TBD | - |
+| 6 | Oct 5 | Binary Search Trees: search, insert | Roughgarden Chapter 11, pp. 237 - 244, 246 [lecture 15 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Binary_Search_Trees.pptx) | - |
+| 6 | Oct 7 | BST: successor, delete, traversals | TBD | - |
 | 6 | Oct 9 | Fall break - No class |  | - |
-| 7 | Oct 12 | Hashing  | TBD | **PA3 due** |
-| 7 | Oct 14 | Hashing (contd.) / Flex |  | - |
+| 7 | Oct 12 | Red-Black Trees | TBD | **PA3 due** |
+| 7 | Oct 14 | Hashing |  | - |
 | 7 | Oct 16 | Flex |  | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
