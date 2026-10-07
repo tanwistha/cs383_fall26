@@ -21,8 +21,8 @@
 | 6 | Oct 7 | BST: successor, delete, traversals | Roughgarden Chapter 11, pp. 247 - 249, **See slides from BST** | - |
 | 6 | Oct 9 | Fall break - No class |  | - |
 | 7 | Oct 12 | Balanced Search Trees: Red-Black Trees | TBD | **PA3 due** |
-| 7 | Oct 14 | Hashing |  | - |
-| 7 | Oct 16 | Flex |  | - |
+| 7 | Oct 14 | Flex |  | - |
+| 7 | Oct 16 | Hashing |  | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
 | 8 | Oct 23 | BFS : reachability & connected components | TBD | - |
