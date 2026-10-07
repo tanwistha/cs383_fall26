@@ -20,7 +20,7 @@
 | 6 | Oct 5 | Binary Search Trees: search, insert | Roughgarden Chapter 11, pp. 237 - 244, 246 [lecture 15 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Binary_Search_Trees.pptx) | - |
 | 6 | Oct 7 | BST: successor, delete, traversals | Roughgarden Chapter 11, pp. 247 - 249, **See slides from BST** | - |
 | 6 | Oct 9 | Fall break - No class |  | - |
-| 7 | Oct 12 | Balanced Search Trees: Red-Black Trees | TBD | **PA3 due** |
+| 7 | Oct 12 | Balanced Binary Search Trees: Red-Black Trees | TBD | **PA3 due** |
 | 7 | Oct 14 | Flex |  | - |
 | 7 | Oct 16 | Hashing |  | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
