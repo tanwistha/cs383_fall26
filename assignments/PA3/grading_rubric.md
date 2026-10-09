@@ -1,4 +1,4 @@
-# Grading Rubric — Assignment 2: Real-Time ER Triage System
+# Grading Rubric — Assignment 3: Real-Time ER Triage System
 
 
 ---
