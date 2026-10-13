@@ -24,5 +24,5 @@ points added on top of the 100 above (a submission can exceed 100 only via this 
 
 | Component | Points |
 |---|---|
-| `HeapERQueue` correctness (same interface/behavior as `ERQueue`) | 5 |
-| Benchmark runs, timings reported, and reasonably matches theoretical prediction (heap noticeably faster at n=20,000, especially on `next_patient`) | 5 |
+| `HeapERQueue` correctness (same interface/behavior as `ERQueue`) | 10 |
+| Benchmark runs, timings reported, and reasonably matches theoretical prediction (heap noticeably faster at n=20,000, especially on `next_patient`) | 10 |
