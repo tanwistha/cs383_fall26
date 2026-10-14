@@ -21,7 +21,7 @@
 | 6 | Oct 7 | BST: successor, delete, traversals | Roughgarden Chapter 11, pp. 247 - 249, **See slides from BST** | - |
 | 6 | Oct 9 | Fall break - No class |  | - |
 | 7 | Oct 12 | Balanced Binary Search Trees: Red-Black Trees | [lecture 17 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/BalancedBST_RBTrees_Gist.pptx) | **PA3 deadline postponed (see mail)** |
-| 7 | Oct 14 | RB Tree (contd.) | see lecture 17 slides | **PA3 due** |
+| 7 | Oct 14 | RB Tree (contd.) | see lecture 17 slides (slides are updated 10/14) | **PA3 due** |
 | 7 | Oct 16 | Hashing |  | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
 | 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
