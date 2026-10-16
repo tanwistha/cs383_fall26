@@ -22,7 +22,7 @@
 | 6 | Oct 9 | Fall break - No class |  | - |
 | 7 | Oct 12 | Balanced Binary Search Trees: Red-Black Trees | [lecture 17 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/BalancedBST_RBTrees_Gist.pptx) | **PA3 deadline postponed (see mail)** |
 | 7 | Oct 14 | RB Tree (contd.) | see lecture 17 slides (slides are updated 10/14); Read Cormen's book chapter on Red Black Trees [3rd edition copy at McGill University](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf) | **PA3 due** |
-| 7 | Oct 16 | Midterm review (30 mins) ; Hashing Intro |  | - |
+| 7 | Oct 16 | Midterm review | [midterm review](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Midterm_Review.pptx) | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
 | 8 | Oct 21 | Hashtables and Hash functions| TBD | - |
 | 8 | Oct 23 | Graphs: terminology & representations | TBD | - |
