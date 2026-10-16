@@ -24,10 +24,10 @@
 | 7 | Oct 14 | RB Tree (contd.) | see lecture 17 slides (slides are updated 10/14); Read Cormen's book chapter on Red Black Trees [3rd edition copy at McGill University](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf) | **PA3 due** |
 | 7 | Oct 16 | Midterm review (30 mins) ; Hashing Intro |  | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
-| 8 | Oct 21 | Graphs: terminology & representations | TBD | - |
-| 8 | Oct 23 | BFS : reachability & connected components | TBD | - |
-| 9 | Oct 26 | DFS | TBD | - |
-| 9 | Oct 28 | BFS, DFS (contd.) / Flex | TBD | **PA4 released** |
+| 8 | Oct 21 | Hashtables and Hash functions| TBD | - |
+| 8 | Oct 23 | Graphs: terminology & representations | TBD | - |
+| 9 | Oct 26 | Graph search : BFS & DFS | TBD | - |
+| 9 | Oct 28 | BFS, DFS (contd.) | TBD | **PA4 released** |
 | 9 | Oct 30 | DAG & Topological sort | TBD | **Project announced**|
 | 10 | Nov 2 | Shortest path: Dijkstra's Algorithm | TBD | - |
 | 10 | Nov 4 | Minimum spanning trees: Kruskal's algorithm | TBD | - |
