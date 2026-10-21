@@ -63,3 +63,19 @@ or PDF alongside your code.
 Submit both files (code + reflection) through the usual course submission
 system by the deadline above. **Late submissions will not be accepted**, since
 this assignment is designed to wrap up before PA4 is released on October 28th, and you will have your project released on October 30th. 
+
+## Grading rubrics Part 1 (80 points)
+
+Suggested breakdown:
+
+| Component | Points | 
+|---|---|---|
+| `insert` works correctly, including update-on-duplicate-key | 20 | 
+| `search` works correctly, including collision cases | 20 | 
+| `delete` works correctly | 20 | 
+| Driver / demonstration code shows a deliberate collision handled correctly | 10 | 
+| Code clarity / stated collision strategy | 10 | 
+
+## Grading rubrics Part 2 (20 points)
+
+3 questions - writeup. 6-7 points per question. 
