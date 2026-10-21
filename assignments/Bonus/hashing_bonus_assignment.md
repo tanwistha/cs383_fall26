@@ -4,7 +4,7 @@
 
 **Due:** Wednesday, Oct 28, 11:59 PM (No late submissions)
 
-**Worth:** Bonus credit (see syllabus for exact weight)
+**Worth:** Bonus - will be counted towards assignments category
 
 ## Overview
 
