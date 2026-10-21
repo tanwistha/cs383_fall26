@@ -1,7 +1,9 @@
 # CS 383 — Bonus Assignment: Build a Hash Table (100 points)
 
 **Released:** Wednesday, Oct 21
-**Due:** Wednesday, Oct 28, 11:59 PM
+
+**Due:** Wednesday, Oct 28, 11:59 PM (No late submissions)
+
 **Worth:** Bonus credit (see syllabus for exact weight)
 
 ## Overview
