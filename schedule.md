@@ -24,7 +24,7 @@
 | 7 | Oct 14 | RB Tree (contd.) | see lecture 17 slides (slides are updated 10/14); Read Cormen's book chapter on Red Black Trees [3rd edition copy at McGill University](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf) | **PA3 due** |
 | 7 | Oct 16 | Midterm review | [midterm review](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Midterm_Review.pptx) | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
-| 8 | Oct 21 | Hashtables and Hash functions| TBD | - |
+| 8 | Oct 21 | Hashtables and Hash functions| [lecture 18 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Hashing_Intro.pptx); Roughgarden Chapter 12 pp. 257 - 276; [Stanford lecture notes](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/CS161Lecture08.pdf) | - |
 | 8 | Oct 23 | Graphs: terminology & representations | TBD | - |
 | 9 | Oct 26 | Graph search : BFS & DFS | TBD | - |
 | 9 | Oct 28 | BFS, DFS (contd.) | TBD | **PA4 released** |
