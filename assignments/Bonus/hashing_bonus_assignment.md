@@ -69,7 +69,7 @@ this assignment is designed to wrap up before PA4 is released on October 28th, a
 Suggested breakdown:
 
 | Component | Points | 
-|---|---|---|
+|---|---|
 | `insert` works correctly, including update-on-duplicate-key | 20 | 
 | `search` works correctly, including collision cases | 20 | 
 | `delete` works correctly | 20 | 
