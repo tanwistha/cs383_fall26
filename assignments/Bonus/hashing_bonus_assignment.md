@@ -13,8 +13,6 @@ Oct 21st. It's meant to reinforce hash table mechanics before we move
 into graphs. It should take a fraction of the time of a regular PA — plan
 for roughly the effort of one problem set.
 
-There is no autograder for this assignment; submissions are graded by hand.
-
 ## Part 1 — Implement a Hash Table (80%)
 
 Implement a hash table from scratch supporting the following operations:
