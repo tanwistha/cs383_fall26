@@ -43,7 +43,7 @@
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
 | 14 | Nov 30 | Floyd-Warshall algorithm (as a DP problem) | TBD | - |
 | 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | - |
-| 14 | Dec 4 | Flex / Revisit a DP problem (Knapsack) |  | Open items (student request) | 
+| 14 | Dec 4 | Flex / Revisit a DP problem (Knapsack) |  | - | 
 | 15 | Dec 7 | Flex / Project testing |  | Project discussion/opens |
 | 15 | Dec 9 | Review |  | **Project code and report due on Dec 10 by 11:59 PM** | 
 | 15 | Dec 11 | Reading day - No class |   | - |
