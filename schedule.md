@@ -25,15 +25,15 @@
 | 7 | Oct 16 | Midterm review | [midterm review](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Midterm_Review.pptx) | - |
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
 | 8 | Oct 21 | Hashtables and Hash functions| [lecture 18 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Hashing_Intro.pptx); Roughgarden Chapter 12 pp. 257 - 276; [Stanford lecture notes](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/CS161Lecture08.pdf) | [Bonus assignment released](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/Bonus/hashing_bonus_assignment.md) |
-| 8 | Oct 23 | Graphs: terminology & representations | TBD | - |
-| 9 | Oct 26 | Graph search : BFS & DFS | TBD | - |
-| 9 | Oct 28 | BFS, DFS (contd.) | TBD | **Bonus Assignment due**, **PA4 released** |
-| 9 | Oct 30 | DAG & Topological sort | TBD | **Project announced**|
-| 10 | Nov 2 | Shortest path: Dijkstra's Algorithm | TBD | - |
-| 10 | Nov 4 | Minimum spanning trees: Kruskal's algorithm | TBD | - |
-| 10 | Nov 6 | Flex |  | - |
+| 8 | Oct 23 | Class canceled (prof out sick) | TBD | - |
+| 9 | Oct 26 | Graph Introduction | slides | - |
+| 9 | Oct 28 | Graph Representation, Connected components | TBD | **Bonus Assignment due** |
+| 9 | Oct 30 | BFS & DFS | TBD | **PA4 released** |
+| 10 | Nov 2 | DAG & Topological sort | TBD | **Project announced** |
+| 10 | Nov 4 | Shortest path: Dijkstra's Algorithm | TBD | - |
+| 10 | Nov 6 | Minimum spanning trees: Kruskal's algorithm |  | - |
 | 11 | Nov 9 | Prim's Algorithm; Intro to Greedy algorithms | TBD | - |
-| 11 | Nov 11 | Prim vs Kruskal (greedy choice property) / Flex | TBD | - |
+| 11 | Nov 11 | Prim vs Kruskal (greedy choice property) | TBD | - |
 | 11 | Nov 13 | Flex |  | **PA4 due** |
 | 12 | Nov 16 | Greedy in depth: when works vs when fails | TBD | Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming | TBD | - |
