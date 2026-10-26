@@ -32,9 +32,9 @@
 | 10 | Nov 2 | DAG & Topological sort | TBD | **Project announced** |
 | 10 | Nov 4 | Shortest path: Dijkstra's Algorithm | TBD | - |
 | 10 | Nov 6 | Minimum spanning trees: Kruskal's algorithm |  | - |
-| 11 | Nov 9 | Prim's Algorithm; Intro to Greedy algorithms | TBD | - |
+| 11 | Nov 9 | Prim's Algorithm; Intro to Greedy algorithms | TBD | **PA4 due** |
 | 11 | Nov 11 | Prim vs Kruskal (greedy choice property) | TBD | - |
-| 11 | Nov 13 | Flex |  | **PA4 due** |
+| 11 | Nov 13 | Flex |  | - |
 | 12 | Nov 16 | Greedy in depth: when works vs when fails | TBD | Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming | TBD | - |
 | 12 | Nov 20 | Dynamic Programming vs greedy decision framework (coin change demo) | TBD | **Project Implementation proposal due** |
