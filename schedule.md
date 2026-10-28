@@ -26,8 +26,8 @@
 | 8 | Oct 19 | **MIDTERM (in class) — no electronics; one-page cheat sheet allowed** |  | - |
 | 8 | Oct 21 | Hashtables and Hash functions| [lecture 18 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Hashing_Intro.pptx); Roughgarden Chapter 12 pp. 257 - 276; [Stanford lecture notes](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/CS161Lecture08.pdf) | [Bonus assignment released](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/Bonus/hashing_bonus_assignment.md) |
 | 8 | Oct 23 | Class canceled (prof out sick) | TBD | - |
-| 9 | Oct 26 | Graph Introduction | slides | - |
-| 9 | Oct 28 | Graph Representation, Connected components | TBD | **Bonus Assignment due** |
+| 9 | Oct 26 | Graph Introduction | [lecture 19 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Graphs_Intro.pptx) | - |
+| 9 | Oct 28 | Graph Representation, Connected components | See lecture 19 slides; Roughgarden Chapter 7 pp. 142 - 150 | **Bonus Assignment due** |
 | 9 | Oct 30 | BFS & DFS | TBD | **PA4 released** |
 | 10 | Nov 2 | DAG & Topological sort | TBD | **Project announced** |
 | 10 | Nov 4 | Shortest path: Dijkstra's Algorithm | TBD | - |
