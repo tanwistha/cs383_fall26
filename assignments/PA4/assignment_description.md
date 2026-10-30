@@ -4,7 +4,7 @@
 
 |                  |                                                  |
 | ---------------- | ------------------------------------------------ |
-| **Points**       | 100                                              |
+| **Points**       | 100 (team of 2 people allowed)                   |
 | **Starter file** | `friend_groups.py` (provided template)           |
 | **Bonus**        | Connected components, in the same file (+25 pts, optional) |
 
@@ -205,6 +205,7 @@ before moving on. Later parts build on earlier ones.
 - Put your Part 3 written answer in the docstring at the very top of the file.
 - Include your name and roughly how long the assignment took you in the header of the file.
 - Your file must run standalone with: `python friend_groups.py`
+- Put your team member's name on the file at the top (if you worked with someone as a team). Both of you should submit your copies online. 
 
 **Due:** November 9 · **Submit via:** Google classroom
 
