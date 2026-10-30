@@ -28,7 +28,7 @@
 | 8 | Oct 23 | Class canceled (prof out sick) | TBD | - |
 | 9 | Oct 26 | Graph Introduction | [lecture 19 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Graphs_Intro.pptx) | - |
 | 9 | Oct 28 | Graph Representation, Connected components | See lecture 19 slides; Roughgarden Chapter 7 pp. 142 - 150 | **Bonus Assignment due** |
-| 9 | Oct 30 | BFS & DFS | TBD | **PA4 released** |
+| 9 | Oct 30 | BFS & DFS | [lecture 20 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Graph_Search_BFS_DFS.pptx) | [**PA4 released**](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA4/assignment_description.md) |
 | 10 | Nov 2 | DAG & Topological sort | TBD | **Project announced** |
 | 10 | Nov 4 | Shortest path: Dijkstra's Algorithm | TBD | - |
 | 10 | Nov 6 | Minimum spanning trees: Kruskal's algorithm |  | - |
