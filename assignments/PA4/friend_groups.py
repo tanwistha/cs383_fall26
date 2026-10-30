@@ -1,7 +1,7 @@
 """
 PA4 -- Friend Groups: Graph Fundamentals
 
-Name:
+Name (Include your and your team member's names if applicable):
 Approximate time spent on this assignment:
 
 Part 3 written answer (replace this with your 3-5 sentence explanation):
