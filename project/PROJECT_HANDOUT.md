@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | Project announced | Mon Nov 2 |
-| Proposal due | Fri Nov 20 |
-| Code + report due | Wed Dec 9 (online) |
+| Proposal due | Fri Nov 20 (Google Classroom) |
+| Code + report due | Th Dec 10 (Google Classroom) |
 | Presentations (15 mins) | Wed Dec 16 1-4 PM (in class) |
 
 Graded components: **Proposal 15% · Code + Report 60% · Presentation 25%**
