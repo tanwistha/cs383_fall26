@@ -29,7 +29,7 @@ implemented anything yet.
 | — | Realistic division of labor across the team | 3 |
 | — | Names something they expect to be hard | 2 |
 
-Grade generously here — the point is to get teams thinking early, not
+The point is to get teams thinking early, not
 to hold them to a contract.
 
 ---
