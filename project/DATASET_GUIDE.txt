@@ -1,0 +1,61 @@
+Campus Delivery Project -- Dataset Guide
+==========================================
+
+FILES
+-----
+  buildings.csv    18 campus buildings: id, name, type, x/y coordinates (meters)
+  pathways.csv     32 walkways between buildings: distance (m) and walk time (s)
+  deliveries.csv   30 delivery requests (see below)
+
+Every team uses the SAME three files. That's on purpose: since
+everyone starts from identical data, differences in your results come
+from your design choices, not from luck of the draw. That's also what
+makes it fair to compare results across teams at the end of the
+semester.
+
+
+FIXED CONSTANTS (not in the CSVs -- just use these numbers)
+-------------------------------------------------------------
+  Delivery agent starts at:  B16  (Poplar Mail Center)
+  Carrying capacity:         15 kg at any one time
+  Note: capacity limits what you're carrying AT ONCE, not in total.
+  Weight leaves your bag when you drop something off, so capacity
+  mainly affects how many pickups you can batch before you deliver.
+
+
+DELIVERIES.CSV COLUMNS
+-------------------------
+  request_id          unique id, e.g. R01
+  pickup, dropoff      building ids
+  priority             HIGH / NORMAL / LOW
+  size_kg              package size/weight
+  window_start_min,
+  window_end_min       optional delivery time window, in minutes from
+                        the start of the shift. Blank means no window.
+
+
+THREE SIZES TO TEST ON
+-------------------------
+Don't ask us for three separate files -- just use the first N rows of
+deliveries.csv, in order:
+
+  SMALL   first  8 requests   (rows R01-R08)
+  MEDIUM  first 16 requests   (rows R01-R16)
+  FULL    all   30 requests   (rows R01-R30)
+
+SMALL is intentionally brute-forceable in its simplest form: if you
+handle requests one at a time (finish a pickup and its dropoff before
+starting the next), there are only 8! = 40,320 possible orderings --
+solvable by exhaustive search in well under a second. Use it to see
+how close your solver gets to that baseline.
+
+Careful: that "one at a time" optimum is a useful baseline, not
+necessarily the best possible plan. Since capacity allows carrying more
+than one item at once, a solver that interleaves pickups and dropoffs
+(carry two things, then drop them both off) can sometimes beat it. If
+your solver does better than the "one at a time" brute-force number,
+that's not a bug -- that's a real finding worth reporting.
+
+You are required to produce a working solution for MEDIUM and FULL.
+Running on all three sizes and reporting what changes as N grows is
+part of the assignment -- see the handout.

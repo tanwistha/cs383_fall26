@@ -1,0 +1,19 @@
+building_id,name,type,x_m,y_m
+B01,Alder Library,library,120,640
+B02,Birch Hall,academic,300,700
+B03,Cedar Science Center,lab,480,760
+B04,Dogwood Admin,admin,200,500
+B05,Elm Student Union,dining,380,520
+B06,Fir Engineering,lab,640,700
+B07,Ginkgo Arts Center,academic,100,380
+B08,Hawthorn Music Hall,academic,240,300
+B09,Ironwood Gym,athletic,700,420
+B10,Juniper Field House,athletic,820,480
+B11,Katsura Residence A,residence,460,260
+B12,Linden Residence B,residence,560,200
+B13,Maple Residence C,residence,660,260
+B14,Nutmeg Dining Commons,dining,520,380
+B15,Oak Health Center,service,340,160
+B16,Poplar Mail Center,service,420,460
+B17,Quince Chemistry,lab,600,820
+B18,Redbud Business,academic,760,620
