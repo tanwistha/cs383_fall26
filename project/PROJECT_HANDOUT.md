@@ -68,7 +68,7 @@ one:
 4. **Evaluation** — did you measure it honestly, and do you understand
    what the numbers mean?
 
-See `project_rubric.md` for exactly how these are weighted at each
+See `project_rubric_outline.md` for exactly how these are weighted at each
 stage. A team that's strong on all four scores far better than a team
 with clever code but no real justification or evaluation for it.
 
