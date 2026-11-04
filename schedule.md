@@ -33,17 +33,17 @@
 | 10 | Nov 4 | Shortest path: Dijkstra's Algorithm | TBD | - |
 | 10 | Nov 6 | Minimum spanning trees: Kruskal's algorithm |  | - |
 | 11 | Nov 9 | Prim's Algorithm; Intro to Greedy algorithms | TBD | **PA4 due** |
-| 11 | Nov 11 | Prim vs Kruskal (greedy choice property) | TBD | - |
-| 11 | Nov 13 | Flex |  | - |
-| 12 | Nov 16 | Greedy in depth: when works vs when fails | TBD | Project discussion (15 min) |
-| 12 | Nov 18 | Dynamic Programming | TBD | - |
-| 12 | Nov 20 | Dynamic Programming vs greedy decision framework (coin change demo) | TBD | **Project Implementation proposal due** |
-| 13 | Nov 23 | Flex |  | - |
+| 11 | Nov 11 | Prim vs Kruskal (greedy choice property); When Geedy works vs Fails | TBD | - |
+| 11 | Nov 13 | Dynamic Programming |  | - |
+| 12 | Nov 16 | Flex | TBD | Project discussion (15 min) |
+| 12 | Nov 18 | Dynamic Programming vs greedy decision framework (coin change demo) | TBD | - |
+| 12 | Nov 20 | Flex | TBD | **Project Implementation proposal due** |
+| 13 | Nov 23 | DP and Shortest Path: Bellman-Ford |  | - |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
 | 14 | Nov 30 | Floyd-Warshall algorithm (as a DP problem) | TBD | - |
 | 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | - |
-| 14 | Dec 4 | Flex / Revisit a DP problem (Knapsack) |  | - | 
+| 14 | Dec 4 | Revisit a DP problem (Knapsack) |  | - | 
 | 15 | Dec 7 | Flex / Project testing |  | Project discussion/opens |
 | 15 | Dec 9 | Review |  | **Project code and report due on Dec 10 by 11:59 PM** | 
 | 15 | Dec 11 | Reading day - No class |   | - |
