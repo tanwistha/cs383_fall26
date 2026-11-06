@@ -31,7 +31,7 @@
 | 9 | Oct 30 | BFS & DFS | [lecture 20 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Graph_Search_BFS_DFS.pptx) ; Roughgarden Chapter 8 pp. 153 - 173 | **PA4 released** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/PA4/assignment_description.md) |
 | 10 | Nov 2 | DAG & Topological sort | [lecture 21 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/DAGs_and_Topological_Sort.pptx) | **Project announced** |
 | 10 | Nov 4 | Shortest path: Dijkstra's Algorithm | [lecture 22 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Shortest_Paths_Dijkstra.pptx) | - |
-| 10 | Nov 6 | Minimum spanning trees: Kruskal's algorithm | [lecture 23 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/MST_and_Kruskal.pptx), Roughgarden Chapter 15. pp. 328 - 331, 347 - 351, [CMU lecture slide on Kruskal Algorithm & Union-find](https://www.cs.cmu.edu/~ckingsf/class/02713-s13/lectures/lec03-othermst.pdf) - read until page 35/slide 35 | - |
+| 10 | Nov 6 | Minimum spanning trees: Kruskal's algorithm | [lecture 23 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/MST_and_Kruskal.pptx), Roughgarden Chapter 15. pp. 328 - 331, 347 - 351, [CMU lecture slide on Kruskal Algorithm & Union-find](https://www.cs.cmu.edu/~ckingsf/class/02713-s13/lectures/lec03-othermst.pdf) - read until page 36/slide 36 | - |
 | 11 | Nov 9 | Greedy algorithms - Prim's algorithm for MST | TBD | **PA4 due** |
 | 11 | Nov 11 | Prim vs Kruskal (greedy choice property); When Geedy works vs Fails | TBD | - |
 | 11 | Nov 13 | Dynamic Programming |  | - |
