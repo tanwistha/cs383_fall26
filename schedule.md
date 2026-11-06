@@ -32,7 +32,7 @@
 | 10 | Nov 2 | DAG & Topological sort | [lecture 21 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/DAGs_and_Topological_Sort.pptx) | **Project announced** |
 | 10 | Nov 4 | Shortest path: Dijkstra's Algorithm | [lecture 22 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Shortest_Paths_Dijkstra.pptx) | - |
 | 10 | Nov 6 | Minimum spanning trees: Kruskal's algorithm | [lecture 23 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/MST_and_Kruskal.pptx), Roughgarden Chapter 15. pp. 328 - 331, 347 - 351, [CMU lecture slide on Kruskal Algorithm & Union-find](https://www.cs.cmu.edu/~ckingsf/class/02713-s13/lectures/lec03-othermst.pdf) - read until page 35/slide 35 | - |
-| 11 | Nov 9 | Prim's Algorithm; Intro to Greedy algorithms | TBD | **PA4 due** |
+| 11 | Nov 9 | Greedy algorithms - Prim's algorithm for MST | TBD | **PA4 due** |
 | 11 | Nov 11 | Prim vs Kruskal (greedy choice property); When Geedy works vs Fails | TBD | - |
 | 11 | Nov 13 | Dynamic Programming |  | - |
 | 12 | Nov 16 | DP and Shortest Path: Bellman-Ford | TBD | Project discussion (15 min) |
