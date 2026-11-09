@@ -41,9 +41,9 @@
 | 13 | Nov 23 | Flex |  | - |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
-| 14 | Nov 30 | Flex | TBD | - |
+| 14 | Nov 30 | Revisit a DP problem (Knapsack) | TBD | - |
 | 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | - |
-| 14 | Dec 4 | Revisit a DP problem (Knapsack) |  | - | 
+| 14 | Dec 4 | Flex |  | - | 
 | 15 | Dec 7 | Flex / Project testing |  | Project discussion/opens |
 | 15 | Dec 9 | Review |  | **Project code and report due on Dec 10 by 11:59 PM** | 
 | 15 | Dec 11 | Reading day - No class |   | - |
