@@ -62,8 +62,8 @@ those reasons hold up?
 | Complexity analysis of the main components, and it's consistent with what they actually measured | 5 |
 | Shows awareness of at least one alternative they didn't choose, and why | 4 |
 
-"We used a hash table for request lookup because we needed O(1) access
-by request ID, and here's where that mattered" is a strong answer. "We
+For example, "We used a hash table for request lookup because we needed O(1) access
+by request ID, and here's where that mattered" is a strong answer. But, "We
 used a hash table" with no reasoning is not, even if the code works.
 
 ### 3. Implementation — 15 pts
