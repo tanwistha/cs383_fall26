@@ -35,7 +35,7 @@
 | 11 | Nov 9 | Greedy algorithms - Prim's algorithm for MST ; Prim vs Kruskal (greedy choice property) | [lecture 24 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Prims_Algorithm_and_Greedy.pptx), Roughgarden Chapter 15. pp. 331 - 340, [Stanford lecture notes on MST algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/CS161Lecture15.pdf) | **PA4 due** |
 | 11 | Nov 11 | Dynamic Programming | [lecture 25 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Dynamic_Programming_Intro.pptx); Roughgarden Chapter 16. Section 16.4 pp. 377 - 380 | - |
 | 11 | Nov 13 | DP and Shortest Path: Bellman-Ford | [lecture 26 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Bellman_Ford.pptx) | - |
-| 12 | Nov 16 | Floyd-Warshall algorithm (as a DP problem) | TBD | Project discussion (15 min) |
+| 12 | Nov 16 | Floyd-Warshall algorithm (as a DP problem) | [lecture 27 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Floyd_Warshall.pptx); Roughgarden Chapter 18, Section 18.4 pp. 430 - 436| Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming vs greedy decision framework (coin change) | TBD | - |
 | 12 | Nov 20 | Strongly Connected Components (Kosaraju-Sharir algo) | TBD | **Project Implementation proposal due** |
 | 13 | Nov 23 | Flex | - | - |
