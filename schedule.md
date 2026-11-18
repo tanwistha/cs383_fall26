@@ -36,7 +36,7 @@
 | 11 | Nov 11 | Dynamic Programming | [lecture 25 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Dynamic_Programming_Intro.pptx); Roughgarden Chapter 16. Section 16.4 pp. 377 - 380 | - |
 | 11 | Nov 13 | DP and Shortest Path: Bellman-Ford | [lecture 26 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Bellman_Ford.pptx) | - |
 | 12 | Nov 16 | Floyd-Warshall algorithm (as a DP problem) | [lecture 27 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Floyd_Warshall.pptx); Roughgarden Chapter 18, Section 18.4 pp. 430 - 436| Project discussion (15 min) |
-| 12 | Nov 18 | Dynamic Programming vs greedy decision framework (coin change) | TBD | - |
+| 12 | Nov 18 | Dynamic Programming vs greedy decision framework (coin change) | [lecture 28 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Greedy_vs_DP_Coin_Change.pptx) | **Bonus Assignment (due Nov 25th) ** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/Bonus_2/coin_change_template.py)  |
 | 12 | Nov 20 | Strongly Connected Components (Kosaraju-Sharir algo) | TBD | **Project Implementation proposal due** |
 | 13 | Nov 23 | Flex | - | - |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
