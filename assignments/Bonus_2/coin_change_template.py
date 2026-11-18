@@ -1,6 +1,8 @@
 """
 CS 383 Algorithms Analysis and Design
 Coin Change: Greedy vs. Dynamic Programming
+Points: Individual Effort Assignment (Bonus 2)
+        Will be graded towards Assignment category, should you choose to submit.
 
 PROBLEM
     Given a list of coin values and an amount, pay the amount using as
