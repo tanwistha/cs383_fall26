@@ -2,7 +2,7 @@
 CS 383 Algorithms Analysis and Design
 Coin Change: Greedy vs. Dynamic Programming
 Points: Individual Effort Assignment (Bonus 2)
-        Will be graded towards Assignment category, should you choose to submit.
+        Will be graded towards Assignment category, should you choose to submit it by November 25th.
 
 PROBLEM
     Given a list of coin values and an amount, pay the amount using as
@@ -14,7 +14,7 @@ PROBLEM
 YOUR TASKS
     Part 1. coin_change_greedy  - always take the largest coin that fits
     Part 2. coin_change_dp      - bottom-up dynamic programming table
-    Part 3. min_coins_memo      - top-down recursion with memoization
+    
     
     Fill in every place marked TODO. Do not change the function names
     or parameters. Run this file to check your work:
@@ -76,31 +76,6 @@ def coin_change_dp(coins, amount):
     #   Hint: the last coin used for x is last[x]; what amount is left?
 
     raise NotImplementedError("Part 2: coin_change_dp")
-
-
-# ======================================================================
-# Part 3: Dynamic programming (top-down with memoization)
-# ======================================================================
-def min_coins_memo(coins, amount):
-    """Return the fewest NUMBER of coins (an int), or None if impossible.
-
-    Write the recurrence as a recursive function best(x), and let
-    @lru_cache remember each answer so no subproblem is solved twice.
-    """
-    coins = tuple(coins)
-
-    @lru_cache(maxsize=None)
-    def best(x):
-        # TODO: base case (x == 0)
-        # TODO: try every coin c that fits; return 1 + the smallest best(x - c)
-        #       (if no coin fits, return float("inf"))
-        raise NotImplementedError("Part 3: min_coins_memo")
-
-    ans = best(amount)
-    return None if ans == float("inf") else ans
-
-
-
 
 # ======================================================================
 # Self-check (do not modify)
