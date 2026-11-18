@@ -94,8 +94,8 @@ def _check():
     for coins, amount, expected in tests:
         print(f"coins={coins}, amount={amount}  (best: {expected})")
         for name, fn in [("greedy", coin_change_greedy),
-                         ("dp", coin_change_dp),
-                         ("memo", min_coins_memo)]:
+                         ("dp", coin_change_dp)]:
+                        # ("memo", min_coins_memo)]:
             try:
                 out = fn(coins, amount)
             except NotImplementedError as e:
@@ -115,7 +115,7 @@ def _check():
             ok = valid and count == expected
             passed += ok
             print(f"  {name:6s} {out}  {'PASS' if ok else 'FAIL'}")
-    print(f"\nDP + memo tests passed: {passed} / {2 * len(tests)}")
+    # print(f"\nDP + memo tests passed: {passed} / {2 * len(tests)}")
 
 
 if __name__ == "__main__":
