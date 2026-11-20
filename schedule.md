@@ -37,7 +37,7 @@
 | 11 | Nov 13 | DP and Shortest Path: Bellman-Ford | [lecture 26 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Bellman_Ford.pptx) | - |
 | 12 | Nov 16 | Floyd-Warshall algorithm (as a DP problem) | [lecture 27 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Floyd_Warshall.pptx); Roughgarden Chapter 18, Section 18.4 pp. 430 - 436| Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming vs greedy decision framework (coin change) | [lecture 28 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Greedy_vs_DP_Coin_Change.pptx) | **Bonus Assignment (due Nov 25th)** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/Bonus_2/coin_change_template.py)  |
-| 12 | Nov 20 | A* Search Algorithm (pathfinding) | TBD | **Project Implementation proposal due** |
+| 12 | Nov 20 | A* Search Algorithm (pathfinding); Project plan demo for a greedy algorithm | [slides for A*](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/A_Star_Search.pptx), [slides for demo plan](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Sample_Greedy_Proposal.pptx) | **Project Implementation proposal due** |
 | 13 | Nov 23 | Flex | - | - |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
