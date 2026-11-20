@@ -37,14 +37,14 @@
 | 11 | Nov 13 | DP and Shortest Path: Bellman-Ford | [lecture 26 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Bellman_Ford.pptx) | - |
 | 12 | Nov 16 | Floyd-Warshall algorithm (as a DP problem) | [lecture 27 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Floyd_Warshall.pptx); Roughgarden Chapter 18, Section 18.4 pp. 430 - 436| Project discussion (15 min) |
 | 12 | Nov 18 | Dynamic Programming vs greedy decision framework (coin change) | [lecture 28 slides](https://github.com/tanwistha/cs383_fall26/blob/main/lectures/Greedy_vs_DP_Coin_Change.pptx) | **Bonus Assignment (due Nov 25th)** [link](https://github.com/tanwistha/cs383_fall26/blob/main/assignments/Bonus_2/coin_change_template.py)  |
-| 12 | Nov 20 | Strongly Connected Components (Kosaraju-Sharir algo) | TBD | **Project Implementation proposal due** |
+| 12 | Nov 20 | A* Search Algorithm (pathfinding) | TBD | **Project Implementation proposal due** |
 | 13 | Nov 23 | Flex | - | - |
 | 13 | Nov 25 | Thanksgiving - No class | - | - |
 | 13 | Nov 27 | Thanksgiving - No class | - | - |
 | 14 | Nov 30 | Revisit a DP problem (Knapsack) | TBD | - |
-| 14 | Dec 2 | Project workshop: algorithm/data-structure choices | - | - |
-| 14 | Dec 4 | Flex |  | - | 
-| 15 | Dec 7 | Flex / Project testing |  | Project discussion/opens |
+| 14 | Dec 2 | Strongly Connected Components (Kosaraju-Sharir algo) | - | - |
+| 14 | Dec 4 | Project workshop |  | - | 
+| 15 | Dec 7 | Project workshop/testing |  | Project discussion/opens |
 | 15 | Dec 9 | Review |  | **Project code and report due on Dec 10 by 11:59 PM** | 
 | 15 | Dec 11 | Reading day - No class |   | - |
 | 16 | Dec 14 | Finals week - No class |   | - |
